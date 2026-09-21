@@ -1,0 +1,1318 @@
+1,"Equinix Ashburn","Equinix Internet Exchange Ashburn","Ashburn","US","North America",347,3
+2,"Equinix Chicago","Equinix Internet Exchange Chicago","Chicago","US","North America",254,3
+3,"Equinix Dallas","Equinix Internet Exchange Dallas","Dallas","US","North America",205,6
+4,"Equinix Los Angeles","Equinix Internet Exchange Los Angeles","Los Angeles","US","North America",83,3
+5,"Equinix San Jose","Equinix Internet Exchange San Jose (Bay Area)","San Jose","US","North America",184,5
+7,"Equinix Palo Alto","Equinix Internet Exchange Palo Alto","Palo Alto","US","North America",69,3
+9,"Equinix Atlanta","Equinix Internet Exchange Atlanta","Atlanta","US","North America",27,3
+11,"Equinix Seattle","Equinix Internet Exchange Seattle","Seattle","US","North America",35,2
+12,"Equinix New York","Equinix Internet Exchange New York","New York","US","North America",102,6
+13,"SIX Seattle","Seattle Internet Exchange (MTU 1500)","Seattle","US","North America",368,15
+14,"NYIIX New York","New York International Internet eXchange","New York","US","North America",193,7
+17,"Equinix Miami","Equinix Internet Exchange Miami","Miami","US","North America",171,2
+18,"LINX LON1","London Internet Exchange Ltd.","London","GB","Europe",836,18
+21,"IX Australia Perth (WA-IX)","West Australian Internet Exchange","Perth","AU","Australia",74,4
+22,"Digital Realty Atlanta","Digital Realty Atlanta Internet Exchange","Atlanta","US","North America",150,2
+23,"NYIIX Los Angeles","New York International Internet eXchange - Los Angeles","Los Angeles","US","North America",21,2
+24,"TorIX","Toronto Internet Exchange Community","Toronto","CA","North America",231,9
+26,"AMS-IX","Amsterdam Internet Exchange","Amsterdam","NL","Europe",861,15
+29,"Equinix Zurich","Equinix Internet Exchange Zurich","Zurich","CH","Europe",41,3
+30,"JPIX TOKYO","","Tokyo","JP","Asia Pacific",269,11
+31,"DE-CIX Frankfurt","DE-CIX Frankfurt","Frankfurt","DE","Europe",1015,26
+33,"CIXP","CERN Internet eXchange Point","Geneva","CH","Europe",45,3
+34,"SFINX","Service for French INternet eXchange","Paris","FR","Europe",24,2
+35,"MIX-IT","Milan Internet eXchange","Milan","IT","Europe",398,13
+42,"HKIX","Hong Kong Internet Exchange","Hong Kong","HK","Asia Pacific",259,6
+43,"TWIX","Taiwan Internet Exchange","Taipei","TW","Asia Pacific",24,0
+48,"INEX LAN1","Internet Neutral Exchange Association CLG","Dublin","IE","Europe",107,5
+50,"VIX","Vienna Internet Exchange","Vienna","AT","Europe",173,3
+52,"KINX","Korean Internet Neutral Exchange","Seoul","KR","Asia Pacific",87,4
+53,"LONAP","London Access Point","London","GB","Europe",310,14
+55,"BIX","Budapest Internet eXchange","Budapest","HU","Europe",103,6
+59,"BNIX","Belgian National Internet eXchange","Brussels","BE","Europe",78,5
+60,"SwissIX","SwissIX Internet Exchange","Zurich","CH","Europe",235,12
+62,"CATNIX","Catalunya Neutral Internet Exchange","Barcelona","ES","Europe",52,4
+63,"ESpanix Madrid Lower LAN","Espanix Lower LAN","Madrid","ES","Europe",160,8
+64,"NL-ix","Neutral Internet Exchange","Amsterdam, Rotterdam, Brussels, Luxembourg, Frankfurt, Düsseldorf, Berlin, Dublin, London, Copenhagen, Paris, Marseille","NL","Europe",533,83
+69,"France-IX AURA","FranceIX Lyon and Grenoble","Lyon and Grenoble","FR","Europe",74,6
+70,"Netnod Stockholm GREEN -- MTU1500","Netnod AB","Stockholm","SE","Europe",190,12
+71,"NIX.CZ","Neutral Internet Exchange in the Czech Republic","Prague","CZ","Europe",174,11
+72,"GigaPIX - LAN 1","GIGAbit Portuguese Internet eXchange - LAN 1","Lisbon","PT","Europe",56,4
+73,"MegaIX Munich","Megaport MegaIX Munich","Munich","DE","Europe",37,4
+74,"DE-CIX Hamburg","","Hamburg","DE","Europe",167,8
+78,"DIX","Danish Internet Exchange","Copenhagen","DK","Europe",28,4
+82,"Pacific Wave","Pacific Wave Exchange in LA, Sunnyvale and Seattle","West Coast","US","North America",15,5
+83,"NIX1","Norwegian Internet Exchange, NIX1 (location 1)","Oslo","NO","Europe",66,4
+84,"SIX.SK","Slovak Internet eXchange","Bratislava","SK","Europe",62,3
+85,"NDIX","Nederlands Duitse Internet Exchange","Enschede / Münster","NL","Europe",15,5
+87,"BCIX","Berlin Commercial Internet Exchange","Berlin","DE","Europe",141,12
+88,"IAIX","iAdvantage Internet Exchange","Hong Kong","HK","Asia Pacific",13,1
+89,"MadIX","Madison Internet Exchange","Madison","US","North America",17,2
+91,"MegaIX Dusseldorf","Megaport MegaIX Dusseldorf","Dusseldorf","DE","Europe",94,3
+92,"DIX-IE","Distributed IX in EDO (former NSPIXP2)","Tokyo","JP","Asia Pacific",23,4
+93,"SOX","Singapore Open Exchange","Singapore","SG","Asia Pacific",12,2
+94,"Equinix Sydney","Equinix Internet Exchange Sydney","Sydney","AU","Australia",216,7
+95,"JPNAP Tokyo","JPNAP Tokyo","Tokyo","JP","Asia Pacific",251,14
+97,"APE","Auckland Peering Exchange","Auckland","NZ","Australia",28,10
+98,"FICIX 2 (Helsinki)","FICIX 2 Helsinki","Helsinki","FI","Europe",60,3
+100,"MSK-IX Moscow","MSK-IX Moscow","Moscow","RU","Europe",303,13
+107,"MSK-IX Saint-Petersburg","MSK-IX Saint-Petersburg (former SPB-IX)","St.Petersburg","RU","Europe",60,7
+115,"TOP-IX","Consorzio Top-IX","Turin","IT","Europe",103,8
+119,"Equinix São Paulo","Equinix Internet Exchange Sao Paulo","São Paulo","BR","South America",162,4
+121,"Namex Rome","Nautilus Mediterranean Exchange Point","Rome","IT","Europe",197,5
+123,"KleyReX","KleyReX Internet Exchange","Frankfurt","DE","Europe",277,12
+125,"Equinix Hong Kong","Equinix Internet Exchange Hong Kong","Hong Kong","HK","Asia Pacific",249,5
+126,"BBIX Tokyo","BroadBand Internet eXchange Tokyo","Tokyo","JP","Asia Pacific",355,16
+127,"Oregon Internet Exchange (OIX)","Oregon-IX","Eugene, Oregon","US","North America",1,1
+128,"SOLIX MTU1500","Stockholm Open Local Internet Exchange MTU1500","Stockholm","SE","Europe",50,5
+129,"JINX","Johannesburg Internet Exchange","Johannesburg","ZA","Africa",202,9
+135,"N-IX","Nuernberger Internet Exchange [N-IX.de]","Nürnberg","DE","Europe",23,8
+141,"TampaIX","Tampa Internet Exchange","Tampa","US","North America",2,1
+142,"Any2West","CoreSite - Any2West","Los Angeles and Silicon Valley","US","North America",264,10
+145,"JPNAP Osaka","JPNAP Osaka","Osaka","JP","Asia Pacific",100,11
+146,"GIX Gothenburg","Gothenburg Internet Exchange","Gothenburg","SE","Europe",0,1
+154,"BAYANTEL","Bayan Telecommunications Internet and Gaming Exchange","Quezon City","PH","Asia Pacific",3,0
+155,"SFMIX","San Francisco Metropolitan Internet Exchange","San Francisco","US","North America",91,20
+158,"Equinix Singapore","Equinix Internet Exchange Singapore","Singapore","SG","Asia Pacific",466,5
+165,"NWAX","Northwest Access Exchange, Inc.","Portland","US","North America",94,12
+167,"Equinix Tokyo","Equinix Internet Exchange Tokyo","Tokyo","JP","Asia Pacific",125,12
+170,"OpenCarrier OCIX","OpenCarrier eG Member IX Duesseldorf","Duesseldorf","DE","Europe",8,4
+171,"IX.br (PTT.br) São Paulo","IX.br (PTT.br) São Paulo","São Paulo/SP","BR","South America",1856,31
+172,"STHIX - Stockholm","Stockholm Internet eXchange","Stockholm","SE","Europe",84,6
+173,"IX.br (PTT.br) Porto Alegre","IX.br (PTT.br) Porto Alegre","Porto Alegre/RS","BR","South America",244,14
+174,"IX.br (PTT.br) Curitiba","IX.br (PTT.br) Curitiba","Curitiba","BR","South America",177,7
+175,"IX.br (PTT.br) Florianópolis","IX.br (PTT.br) Florianópolis","Florianópolis/SC","BR","South America",101,5
+176,"IX.br (PTT.br) Belo Horizonte","IX.br (PTT.br) Belo Horizonte","Belo Horizonte/MG","BR","South America",80,5
+177,"IX.br (PTT.br) Rio de Janeiro","IX.br (PTT.br) Rio de Janeiro","Rio de Janeiro/RJ","BR","South America",523,15
+178,"IX.br (PTT.br) Brasília","IX.br (PTT.br) Brasília","Brasília/DF","BR","South America",186,7
+184,"UA-IX","Ukrainian Internet Exchange","Kiev","UA","Europe",152,3
+189,"HIX","Hawai`i Internet Exchange","Honolulu","US","North America",1,0
+190,"TLLIX","Tallinn Internet Exchange","Tallinn","EE","Europe",6,0
+192,"Netnod Gothenburg -- MTU1500","Netnod AB","Gothenburg","SE","Europe",16,2
+193,"Netnod Copenhagen GREEN -- MTU9K","Netnod AB","Malmo / Copenhagen","DK","Europe",64,4
+194,"Netnod Sundsvall -- MTU1500","Netnod AB","Sundsvall / Gavle","SE","Europe",18,3
+196,"PIX Montreal","Peer1 Internet Exchange - Montreal","Montreal","CA","North America",0,0
+197,"PIX Toronto","Peer1 Internet Exchange - Toronto","Toronto","CA","North America",0,1
+198,"NIXI Delhi","National Internet eXchange of India","Delhi","IN","Asia Pacific",115,11
+199,"YRIX","Yellowstone Regional Internet eXchange","Billings, MT","US","North America",1,1
+204,"Any2East","CoreSite - Any2East","Washington DC, Reston, Boston, New York, Atlanta","US","North America",50,11
+205,"Any2Florida","CoreSite - Any2Florida","Miami/Orlando","US","North America",0,4
+209,"MegaIX Berlin","Megaport MegaIX Berlin","Berlin","DE","Europe",43,5
+210,"IIX-Jakarta","Indonesia Internet Exchange","Jakarta","ID","Asia Pacific",806,14
+212,"Stuttgart-IX","Stuttgarter Internet eXchange, Stuttgart-IX","Stuttgart","DE","Europe",35,5
+217,"TaipeiGigaPoP","Taipei GigaPoP Internet Exchange","Taipei/Taiwan","TW","Asia Pacific",0,1
+223,"MSK-IX Novosibirsk","MSK-IX Novosibirsk (former NSK-IX)","Novosibirsk","RU","Asia Pacific",41,1
+224,"NIXI Mumbai","National Internet Exchange of India","Mumbai","IN","Asia Pacific",180,22
+225,"THAILAND IX (TH-IX)","Thailand Internet Exchange","Bangkok","TH","Asia Pacific",62,8
+226,"Any2Chicago","CoreSite - Any2Chicago","Chicago","US","North America",16,2
+228,"RIX","Reykjavik Internet Exchange","Reykjavik","IS","Europe",25,3
+230,"POZIX","Poznan Internet Exchange","Poznan","PL","Europe",29,6
+234,"NSPIXP3","Wide NSPIXP3","Osaka","JP","Asia Pacific",3,0
+235,"NIXI Chennai","National Internet eXchange of India","Chennai","IN","Asia Pacific",57,7
+236,"KIXP - Nairobi","Kenya Internet Exchange Point - Nairobi","Nairobi","KE","Africa",136,4
+239,"ChIX","Chicago Internet Exchange","Chicago","US","North America",64,5
+240,"MINAP Milan","Milan Neutral Access Point","Milan","IT","Europe",112,4
+241,"npIX DH","Internet Exchange Nepal","Kathmandu","NP","Asia Pacific",30,1
+248,"DE-CIX Munich","","Munich","DE","Europe",181,8
+249,"KCIX","Kansas City Internet Exchange","Kansas City","US","North America",197,12
+250,"MyIX","Malaysia Internet Exchange","Kuala Lumpur","MY","Asia Pacific",119,6
+252,"NAP Colombia","NAP Colombia - IXP Colombia","Bogota","CO","South America",21,4
+253,"NAP.EC - UIO","NAP Ecuador - Quito (managed by AEPROVI)","Quito/UIO","EC","South America",19,0
+254,"Any2Denver","CoreSite - Any2Denver","Denver","US","North America",72,2
+255,"Equinix Paris","Equinix Internet Exchange Paris","Paris","FR","Europe",241,8
+256,"Digital Realty Phoenix","Digital Realty Phoenix Internet Exchange","Phoenix","US","North America",6,1
+257,"Netnod Lulea -- MTU9K","Netnod AB","Lulea","SE","Europe",9,0
+258,"Norrnod","Norrnod Umea","Umea","SE","Europe",1,0
+260,"OCIX","Open Caribbean Internet eXchange","Philipsburg","SX","South America",5,1
+262,"SISPA","Swaziland Peering Point","Swaziland","SZ","Africa",0,0
+264,"Equinix Warsaw","Equinix Internet Exchange Warsaw","Warsaw","PL","Europe",236,3
+267,"DRF IX","DRFortress Exchange","Honolulu","US","North America",33,1
+270,"InterLAN-IX","InterLAN Internet Exchange Romania","Bucharest","RO","Europe",125,11
+273,"TIX","Tuscany Internet eXchange","Florence","IT","Europe",17,0
+274,"CAIX","Cairo Internet eXchange","Cairo","EG","Middle East",5,1
+275,"BY-IX","Belarusian Internet Exchange","Minsk","BY","Europe",7,0
+287,"Crimea-IX","Crimea-IX","Simferopol","RU","Europe",8,0
+288,"ACTIX","ACT Internet Exchange","Canberra, ACT","AU","Australia",2,1
+291,"MegaIX Hamburg","Megaport MegaIX Hamburg","Hamburg","DE","Europe",55,5
+297,"LU-CIX","Luxembourg Internet Exchange","Luxembourg","LU","Europe",84,9
+298,"NIX2","Norwegian Internet Exchange (location 2)","Oslo","NO","Europe",11,0
+299,"NIX.SK","Neutral Internet eXchange Slovakia","Bratislava","SK","Europe",65,5
+301,"RoNIX","Romanian Internet Exchange","Bucharest","RO","Europe",38,10
+303,"CIX","Croatian Internet Exchange","Zagreb","HR","Europe",41,3
+311,"VSIX","Veneto System Internet Exchange","Padova","IT","Europe",74,2
+313,"R_iX","Rotterdam Internet Exchange","Rotterdam","NL","Europe",10,9
+314,"IX.br (PTT.br) Londrina","IX.br (PTT.br) Londrina","Londrina/PR","BR","South America",36,3
+316,"ExWest","Exchange West","Galway","IE","Europe",2,1
+317,"GIX","Globe Internet Exchange","Makati City","PH","Asia Pacific",15,1
+319,"SIX SI","Slovenian Internet Exchange","Ljubljana","SI","Europe",29,2
+321,"LINX LON2","London Internet Exchange Ltd.","London","GB","Europe",319,18
+322,"Digital Realty Dallas","Digital Realty Dallas Internet Exchange","Dallas","US","North America",11,2
+325,"Digital Realty New York","Digital Realty New York Internet Exchange","New York/New Jersey","US","North America",54,5
+326,"B-IX","Balkan Internet Exchange","Sofia","BG","Europe",54,9
+327,"DTEL-IX","Digital Telecom Internet Exchange","Kiev","UA","Europe",203,20
+328,"TREX Tampere","Tampere Region Exchange","Tampere","FI","Europe",25,3
+331,"BIX.BG","BIX.BG - Bulgarian Internet eXchange","Sofia","BG","Europe",128,8
+334,"KAZ-IX","Kazakhstan Traffic Exchange","Karaganda","KZ","Asia Pacific",6,0
+340,"ULN-IX","Ulyanovsk Internet eXchange","Ulyanovsk","RU","Europe",4,0
+344,"CINX","Cape Town Internet Exchange","Cape Town","ZA","Africa",120,6
+347,"GR-IX::Athens","Greek Internet Exchange - Athens","Athens","GR","Europe",66,3
+348,"WIX-NZ","Wellington Internet Exchange","Wellington","NZ","Australia",18,4
+349,"CHIX-NZ","Christchurch Internet Exchange","Christchurch","NZ","Australia",1,0
+350,"MSK-IX Ekaterinburg","MSK-IX Ekaterinburg (former EKT-IX)","Ekaterinburg","RU","Asia Pacific",33,2
+355,"CANIX Montreal","","Montreal","CA","North America",81,5
+357,"SOAX","Southern Oregon Access Exchange","Medford","US","North America",3,1
+358,"GNM-IX","GNM Internet Exchange","Amsterdam","NL","Europe",440,49
+359,"France-IX Paris","FranceIX Paris","Paris","FR","Europe",452,9
+361,"TIX Tanzania - Dar es Salaam","Tanzania Internet eXchange","Dar es Salaam","TZ","Africa",32,4
+363,"SUPRnet","Southern Utah Peering Regional Network","Saint George","US","North America",18,1
+364,"SMILE-IXP","Santa Monica Internet Local Exchange","Riga","LV","Europe",24,2
+366,"AMS-IX Caribbean","Amsterdam Internet Exchange Caribbean","Curacao","CW","South America",8,1
+372,"Balcan-IX","BALCAN-IX","Bucharest","RO","Europe",29,10
+373,"Equinix Toronto","Equinix Internet Exchange Toronto","Toronto","CA","North America",16,2
+375,"OpenIXP / NiCE","National Inter Connection Exchange (NiCE)","Indonesia","ID","Asia Pacific",615,0
+377,"AAIX","Alps Adria Internet eXchange","Klagenfurt","AT","Europe",22,2
+378,"MSK-IX Vladivostok","MSK-IX Vladivostok (former VLV-IX)","Vladivostok","RU","Asia Pacific",10,0
+379,"MSK-IX Samara","MSK-IX Samara (former SMR-IX)","Samara","RU","Europe",13,0
+380,"MSK-IX Rostov-on-Don","MSK-IX Rostov-on-Don (former RND-IX)","Rostov-on-Don","RU","Europe",19,0
+381,"REUNIX","REUNIX","Saint-Denis, La Reunion","RE","Africa",7,0
+383,"LIX-LV","Latvian Internet Exchange","Riga","LV","Europe",6,1
+387,"INEX LAN2","Internet Neutral Exchange Association CLG","Dublin","IE","Europe",66,5
+392,"MD-IX","Moldova Internet Exchange","Chisinau","MD","Europe",14,2
+393,"IIX Israel","Israel Internet eXchange","Petach Tikva","IL","Middle East",15,1
+398,"MSK-IX Kazan","MSK-IX Kazan (former KZN-IX)","Kazan","RU","Europe",6,0
+400,"LIPTAM","Lietuvos Interneto paslaugų tiekėjų apsikeitimo mazgu","Vilnius","LT","Europe",4,0
+415,"IX.br (PTT.br) Campinas","IX.br (PTT.br) Campinas","Campinas/SP","BR","South America",40,5
+421,"Angola IXP","Angola Internet Exchange point","Luanda","AO","Africa",13,3
+422,"UIXP","Kampala","Kampala","UG","Africa",25,2
+424,"SOX Serbia","Serbian Open eXchange","Belgrade/Serbia","RS","Europe",42,11
+428,"NASA-AIX","NASA Ames Internet eXchange","Mountain View, CA","US","North America",1,1
+429,"SGIX","Singapore Internet Exchange","Singapore","SG","Asia Pacific",248,16
+430,"GraX","Grazer Internet eXchange","Graz","AT","Europe",4,1
+435,"IXLeeds","Leeds Internet Exchange","Leeds / Western Yorkshire","GB","Europe",19,1
+446,"MICE","Midwest Internet Cooperative Exchange","Minneapolis, MN","US","North America",146,5
+452,"BIX Jakarta","Biznet Internet Exchange","Jakarta","ID","Asia Pacific",174,4
+453,"FIXO","FIXO Internet Exchange Oslo","Oslo","NO","Europe",41,3
+463,"GU-IX","Guam Internet Exchange","Guam","GU","Asia Pacific",1,3
+474,"EPIX.Warszawa","EPIX","Warsaw","PL","Europe",378,4
+476,"AZIX","Arizona Internet Exchange","Phoenix","US","North America",1,1
+477,"CBIX","Commercial Brno Internet Exchange","Brno","CZ","Europe",0,1
+481,"THINX Warsaw","Thinx Warsaw","Warsaw","PL","Europe",148,18
+482,"TPIX PL","TPIX","Warsaw","PL","Europe",331,26
+487,"CyIX","Cyprus Internet Exchange","Nicosia / Cyprus","CY","Europe",3,0
+488,"IXPN Lagos","Internet Exchange Point of Nigeria","Lagos","NG","Africa",124,8
+491,"EPIX.Katowice","","Katowice/Silesia","PL","Europe",392,3
+492,"FICIX 3 (Oulu)","FICIX 3 Oulu","Oulu","FI","Europe",11,1
+496,"BNIIX","Buffalo Niagara International Internet Exchange","Buffalo","US","North America",2,0
+499,"MKE-IX","The Milwaukee Internet Exchange","Milwaukee","US","North America",9,1
+506,"GTIIX","Greater Toronto International Internet Exchange","Toronto","CA","North America",2,0
+512,"PIRIX","Pirix Internet Exchange","St.Petersburg","RU","Europe",6,7
+513,"IX Australia Melbourne (VIC-IX)","Victorian Internet Exchange","Melbourne","AU","Australia",102,4
+514,"Central Oregon Internet Exchange","Central Oregon Internet eXchange","Bend","US","North America",14,2
+524,"CePIX.pl","Central Polish Internet eXchange","Mogilno","PL","Europe",1,1
+526,"LIXP","Lithuanian Internet eXchange Point","Vilnius","LT","Europe",11,2
+528,"MOZIX","Mozambique Internet Exchange","Maputo","MZ","Africa",18,0
+529,"KRS-IX","Krasnoyarsk Internet Exchange","Krasnoyarsk","RU","Europe",4,0
+538,"RTIX","Tallinn Governmental Internet Exchange","Tallinn","EE","Europe",44,3
+542,"Litix","Lithuanian peering center","Vilnius","LT","Europe",23,3
+543,"Rheintal IX","Rheintal Internet Exchange","Eschen","LI","Europe",37,7
+556,"IX.br (PTT.br) Salvador","IX.br (PTT.br) Salvador","Salvador/BA","BR","South America",120,3
+558,"IX.br (PTT.br) Caxias do Sul","IX.br (PTT.br) Caxias do Sul","Caxias do Sul/RS","BR","South America",13,2
+559,"SIX.SK Košice","Slovak Internet Exchange Košice","Košice","SK","Europe",3,1
+563,"JXIX","Jacksonville Internet Exchange","Jacksonville","US","North America",13,2
+564,"JPIX OSAKA","","Osaka","JP","Asia Pacific",111,8
+565,"Boston Internet Exchange","Boston Internet Exchange","Boston, Massachusetts","US","North America",58,2
+573,"HIX Haiti","Haiti Internet Exchange","Port-au-Prince","HT","South America",4,0
+575,"IX.br (PTT.br) Goiânia","IX.br (PTT.br) Goiânia","Goiânia/GO","BR","South America",57,5
+576,"IX Australia Brisbane (QLD-IX)","Queensland Internet Exchange","Brisbane","AU","Australia",74,2
+577,"AMS-IX Hong Kong","Amsterdam Internet Exchange Hong Kong","Hong Kong","HK","Asia Pacific",45,2
+580,"MSK-IX Stavropol","MSK-IX Stavropol (former STW-IX)","Stavropol","RU","Europe",1,0
+582,"BIX Bergen","Bergen Internet Exchange","Bergen","NO","Europe",5,1
+583,"LINX Manchester","LINX Manchester","Manchester","GB","Europe",137,7
+587,"UAE-IX","UAE-IX powered by DE-CIX","Dubai","AE","Middle East",103,3
+592,"NAPAfrica IX Johannesburg","NAPAfrica IX Johannesburg","Johannesburg","ZA","Africa",543,1
+597,"NAPAfrica IX Cape Town","NAPAfrica IX Cape Town","Cape Town","ZA","Africa",279,2
+598,"NIXI Hyderabad","National Internet eXchange of India","Hyderabad","IN","Asia Pacific",22,2
+602,"Echigo-IX","Echigo Internet Exchange","Niigata","JP","Asia Pacific",2,0
+603,"IX.br (PTT.br) Campina Grande","IX.br (PTT.br) Campina Grande","Campina Grande/PB","BR","South America",32,1
+606,"C2IX","Cyber 2 Internet Exchange","Jakarta","ID","Asia Pacific",41,2
+607,"MIX MNDC","Mongolian Internet Exchange & Mongolian National Data Center","Ulaanbaatar","MN","Asia Pacific",8,0
+610,"DINX","Durban Internet Exchange","Durban","ZA","Africa",99,2
+615,"Lusaka Internet Exchange Point","Lusaka Internet Exchange Point","Lusaka","ZM","Africa",12,0
+624,"TP-IX","Twin Ports Internet Exchange","Duluth","US","North America",2,1
+626,"IIX-JawaTimur","IIX Jawa Timur","Surabaya","ID","Asia Pacific",70,2
+628,"KINIX","KINshasa Internet eXchange","Kinshasa","CD","Africa",23,2
+633,"Sea-IX","South Russia IX","Krasnodar","RU","Europe",19,1
+635,"OMSK-IX","Omsk Internet Exchange","Omsk","RU","Europe",3,0
+639,"YYCIX","YYCIX Calgary Internet Exchange","Calgary","CA","North America",92,9
+640,"GCIIX","Greater Chicago International Internet Exchange","Chicago","US","North America",1,1
+655,"Giganet IXN","Giganet Internet exchange network","Amsterdam, Frankfurt am Main, Kharkiv, Kyiv, Lviv, Odesa, Warsaw, Zaporizhzhia, Zhytomyr","UA","Europe",266,19
+662,"Ninja-IX Phoenix","Ninja-IX Phoenix","Phoenix","US","North America",59,13
+672,"CyrusOne IX Dallas","CyrusOne Internet Exchange","Dallas","US","North America",3,0
+674,"CyrusOne IX Austin","CyrusOne Internet Exchange","Austin","US","North America",1,1
+675,"CyrusOne IX San Antonio","CyrusOne Internet Exchange","San Antonio","US","North America",0,0
+676,"MegaIX Frankfurt","Megaport MegaIX Frankfurt","Frankfurt","DE","Europe",109,11
+683,"YAR-IX","Yaroslavl Internet Exchange","Yaroslavl","RU","Europe",0,1
+691,"IX Australia Adelaide (SA-IX)","South Australian Internet Exchange","Adelaide","AU","Australia",35,4
+694,"GIXA","Ghana Internet Exchange Association","Accra","GH","Africa",24,5
+699,"NetIX","NetIX Communications Ltd.","Sofia","BG","Europe",131,242
+703,"MBIX","Manitoba Internet Exchange","Winnipeg, Manitoba","CA","North America",32,4
+705,"IX.br (PTT.br) Recife","IX.br (PTT.br) Recife","Recife/PE","BR","South America",120,5
+706,"IX.br (PTT.br) Vitória","IX.br (PTT.br) Vitória","Vitória/ES","BR","South America",72,4
+707,"IX.br (PTT.br) Manaus","IX.br (PTT.br) Manaus","Manaus/AM","BR","South America",29,5
+708,"IX.br (PTT.br) Natal","IX.br (PTT.br) Natal","Natal/RN","BR","South America",31,1
+709,"IX.br (PTT.br) São José do Rio Preto","IX.br (PTT.br) São José do Rio Preto","São José do Rio Preto/SP","BR","South America",21,1
+710,"IX.br (PTT.br) Fortaleza","IX.br (PTT.br) Fortaleza","Fortaleza/CE","BR","South America",601,10
+711,"IX.br (PTT.br) Belém","IX.br (PTT.br) Belém","Belém/PA","BR","South America",42,3
+713,"Peering.cz","Peering.cz eXchange","Prague, Bratislava, Vienna, Frankfurt","CZ","Europe",189,8
+716,"IX Australia Sydney (NSW-IX)","New South Wales Internet Exchange","Sydney","AU","Australia",182,8
+727,"MIX-BT","Malawi Internet Exchange (MIX)","Blantyre","MW","Africa",10,1
+745,"LINX Scotland","LINX Scotland","Scotland","GB","Europe",32,2
+760,"CyrusOne IX Phoenix","CyrusOne Internet Exchange","Phoenix","US","North America",2,0
+762,"DO-IX","Dortmund Internet eXchange","Dortmund","DE","Europe",9,1
+766,"DN-IX","Donetsk Internet eXchange","Donetsk","UA","Europe",2,0
+776,"WPGIX","Winnipeg Internet Exchange","Winnipeg","CA","North America",0,0
+777,"LINX NoVA","LINX Northern Virginia, Ashburn, Reston and Manassas","Northern Virginia","US","North America",56,12
+778,"CIX KR","CIX - Cracow Internet Exchange","Krakow","PL","Europe",8,0
+779,"MegaIX Melbourne","Megaport MegaIX Melbourne","Melbourne","AU","Australia",134,12
+780,"MegaIX Sydney","Megaport MegaIX Sydney","Sydney","AU","Australia",226,21
+781,"MegaIX Brisbane","Megaport MegaIX Brisbane","Brisbane","AU","Australia",95,11
+786,"BBIX Osaka","BroadBand Internet eXchange Osaka","Osaka","JP","Asia Pacific",127,11
+790,"IX.br (PTT.br) Lajeado","IX.br (PTT.br) Lajeado","Lajeado/RS","BR","South America",19,1
+796,"BREM-IX","Bremen Internet Exchange","Bremen","DE","Europe",6,6
+804,"DE-CIX New York","","New York","US","North America",263,33
+809,"OmahaIX","Omaha Internet Exchange","Omaha","US","North America",52,1
+810,"CIVIX","Cote d'Ivoire Internet Exchange Point (CIVIX)","Abidjan","CI","Africa",14,0
+815,"NNOV-IX","Nizhny Novgorod  Internet Exchange","Nizhny Novgorod","RU","Europe",1,0
+818,"IX.br (PTT.br) Maringá","IX.br (PTT.br) Maringá","Maringá/PR","BR","South America",45,2
+822,"Sibir-IX","Krasnoyarsk Internet Exchange","Krasnoyarsk","RU","Europe",13,0
+823,"TPIX-TW","Taipei Internet Exchange","Taipei/Taiwan","TW","Asia Pacific",168,3
+828,"RZ-IX","Rzeszowski Punkt Wymiany Ruchu","Rzeszow","PL","Europe",14,0
+829,"SLIX - Salt Lake City Internet Exchange","Salt Lake Internet Exchange","Salt Lake City","US","North America",35,5
+832,"DE-CIX Mumbai","","Mumbai","IN","Asia Pacific",450,20
+833,"TPAIX","Tampa Internet Exchange","Tampa","US","North America",24,2
+842,"MLIXP","MegaLink-IXP","LA PAZ","BO","South America",5,0
+851,"ArmIX","Armenian Internet Exchange","Yerevan","AM","Europe",33,0
+854,"HTN-IX","HT Networks Co., Ltd.","Phnom Penh","KH","Asia Pacific",1,0
+859,"IX.br (PTT.br) Cuiabá","IX.br (PTT.br) Cuiabá","Cuiabá/MT","BR","South America",39,3
+863,"VANIX","","Vancouver","CA","North America",78,11
+864,"BR-IX","Brno University of Technology","Brno","CZ","Europe",8,2
+866,"SH-IX","SMARTHUB Internet Exchange","Fujairah","AE","Middle East",43,1
+869,"Ohio IX","Ohio IX","Columbus","US","North America",53,16
+876,"RED-IX","Krasnoyarsk Internet Exchange","Krasnoyarsk","RU","Europe",11,0
+880,"France-IX Marseille","FranceIX Marseille","Marseille","FR","Europe",110,2
+881,"Lillix","Northern France and Eurometropole GIX","Lille","FR","Europe",46,3
+906,"HFXIX","Halifax Internet Exchange","Halifax","CA","North America",20,1
+909,"BBIX Singapore","BroadBand Internet eXchange Singapore","Singapore","SG","Asia Pacific",155,6
+916,"CitraIX Yogyakarta","Citranet Internet Exchange Yogyakarta","Yogyakarta","ID","Asia Pacific",60,3
+922,"IXP Namibia","Windhoek Internet Exchange Point","Windhoek","NA","Africa",6,0
+938,"TahoeIX","Tahoe Internet Exchange","Reno","US","North America",12,2
+940,"TTIX","Trinidad and Tobago Internet Exchange","Barataria","TT","South America",11,1
+948,"Equinix Osaka","Equinix Internet Exchange Osaka","Osaka","JP","Asia Pacific",27,2
+954,"FL-IX","FL-IX - The Florida Internet Exchange / Community IX - Florida","Miami","US","North America",198,13
+957,"MiamiIX","Miami Internet Exchange","Miami, Florida","US","North America",4,3
+965,"MegaIX Singapore","Megaport MegaIX Singapore","Singapore","SG","Asia Pacific",42,13
+967,"AMS-IX Djibouti","Amsterdam Internet Exchange Djibouti","Djibouti","DJ","Africa",20,1
+969,"NAPAfrica IX Durban","NAPAfrica IX Durban","Durban","ZA","Africa",138,1
+971,"VIX.VU","Vanuatu Internet Exchange","Port Vila","VU","Asia Pacific",6,1
+976,"IX Australia Canberra (ACT-IX)","Australian Capital Territory Internet Exchange","Canberra","AU","Australia",7,2
+977,"AKL-IX (Auckland NZ)","New Zealand Internet Exchange, Auckland","Auckland","NZ","Australia",98,9
+983,"UNY-IX","Universitas Negeri Yogyakarta Internet Exchange Point","Yogyakarta","ID","Asia Pacific",35,2
+984,"MegaIX Auckland","Megaport MegaIX Auckland","Auckland","NZ","Australia",84,10
+985,"BDX BTN1","Brighton Internet Exchange","Brighton","GB","Europe",0,0
+986,"FD-IX - Indianapolis","MidWest-IX / FD-IX Indianapolis","Indianapolis, Indiana","US","North America",44,8
+993,"PIX Palestine","Palestine Internet Exchange Point","Ramallah","PS","Middle East",3,0
+1002,"DE-CIX Richmond","","Ashland","US","North America",21,3
+1006,"DET-iX","Detroit Internet Exchange","Detroit","US","North America",78,5
+1007,"angonix","Angola Internet Exchange Point","Luanda","AO","Africa",23,1
+1009,"Tirol-IX","Tirol-IX Internet Exchange","Innsbruck/Tirol","AT","Europe",14,2
+1013,"NOVO NIX","NOVOCOM NIX","Dhaka","BD","Asia Pacific",11,0
+1016,"LINX Wales","LINX Wales","Cardiff","GB","Europe",10,1
+1017,"BENIN-IX","BENIN-IX","Cotonou","BJ","Africa",5,0
+1019,"AuvernIX","IXP et NAP d’Auvergne et du Massif Central","Clermont-Ferrand","FR","Europe",13,0
+1023,"CRIX","Costa Rica Internet Exchange","San Jose","CR","North America",42,0
+1025,"BKNIX (Thailand)","Bangkok Neutral Internet Exchange","Bangkok","TH","Asia Pacific",71,7
+1026,"Equinix Melbourne","Equinix Internet Exchange Melbourne","Melbourne","AU","Australia",56,2
+1028,"Nap Peru","Nap Peru","Lima","PE","South America",4,0
+1032,"RINEX","Rwanda Internet Exchange","Kigali","RW","Africa",17,1
+1038,"NashIX","Nashville Internet Exchange","Nashville","US","North America",7,1
+1040,"NormandIX","NormandIX","Normandy","FR","Europe",0,0
+1042,"NAP.EC - GYE","NAP Ecuador - Guayaquil (managed by AEPROVI)","Guayaquil/GYE","EC","South America",13,1
+1046,"CGIX-BZV","Congo Internet eXchange","Brazzaville","CG","Africa",9,1
+1054,"Transhybrid IX Network","Trans Hybrid Communication eXchange","Jakarta","ID","Asia Pacific",66,25
+1056,"MegaIX Sofia","Megaport MegaIX Sofia (formerly OM-NIX)","Sofia","BG","Europe",15,2
+1073,"SAIX","Salzburg Internet eXchange - SAIX","Salzburg","AT","Europe",17,3
+1086,"MASS-IX","MASS IX, Boston/Massachusetts Internet Exchange","Boston","US","North America",71,7
+1088,"Global-IX","GlobalNet","Amsterdam","NL","Europe",139,29
+1089,"T-CIX","T-CIX","Sofia","BG","Europe",11,1
+1094,"GE-CIX","Global Internet Exchange & Peering Network","Zurich","CH","Europe",0,13
+1095,"IIX-Rimba-2","Riau Internet Exchange 2 (RIX-2)","Pekanbaru","ID","Asia Pacific",5,1
+1105,"TunIXP","Tunisia Internet Exchange Point","Tunis","TN","Africa",4,0
+1117,"CyrusOne IX Sterling","CyrusOne Internet Exchange","Sterling","US","North America",0,2
+1123,"IXP-HN","Internet Exchange Point Honduras","Tegucigalpa","HN","South America",4,0
+1127,"MARTINIX","","Fort-de-France","MQ","North America",2,0
+1131,"DE-CIX Palermo","","Palermo","IT","Europe",18,1
+1134,"Guyanix","","Cayenne","GF","South America",3,0
+1142,"CyrusOne IX Chicago","CyrusOne Internet Exchange","Chicago","US","North America",0,1
+1146,"ESpanix Madrid Upper LAN","Espanix Upper LAN","Madrid","ES","Europe",56,8
+1149,"DE-CIX Marseille","","Marseille","FR","Europe",106,2
+1150,"DE-CIX Istanbul","","Istanbul","TR","Europe",69,11
+1151,"CentralIX","Central Internet Exchange","Bremen","DE","Europe",3,0
+1154,"SFO-IX","Milecom LLC, project SFO-IX","Barnaul, Novosibirsk","RU","Europe",30,5
+1156,"United Peering - UP-IXP","United Peering - free and open peering (UP-IXP)","Wuppertal","DE","Europe",3,0
+1160,"NIXVAL-IX","Neutral Internet Exchange Valencia","Valencia","ES","Europe",10,1
+1168,"Kherson Traffic Exchange","Kherson Traffic Exchange","Kherson","UA","Europe",3,0
+1169,"YEGIX","YEGIX Edmonton Internet Exchange","Edmonton","CA","North America",9,1
+1171,"KIVIX","Chisinau Internet Exchange","Chisinau","MD","Europe",19,1
+1172,"CHN-IX Beijing","CHN-IX China Beijing","Beijing","CN","Asia Pacific",7,1
+1174,"MegaIX Seattle","Megaport MegaIX Seattle","Seattle","US","North America",16,8
+1175,"MegaIX Los Angeles","Megaport MegaIX Los Angeles","Los Angeles","US","North America",24,14
+1178,"MegaIX Ashburn","Megaport MegaIX Ashburn","Ashburn","US","North America",45,37
+1180,"MegaIX Dallas","Megaport MegaIX Dallas","Dallas","US","North America",29,29
+1183,"6NGIX","KISA 6NGIX Center","Seoul","KR","Asia Pacific",1,0
+1187,"SYMPHONY THAI - IX BANGKOK - 1","SYMPHONY THAI - IX BANGKOK - 1","Bangkok","TH","Asia Pacific",3,19
+1188,"TC-IX","Telecom Cambodia","Phnom Penh","KH","Asia Pacific",0,1
+1191,"SerinIX IX","SerinIX Internet Exchange","Kiev","UA","Europe",1,0
+1201,"TIX Tanzania - Arusha (AIXP)","Arusha Internet eXchange Point","Arusha","TZ","Africa",16,0
+1207,"IX-Denver","Interconnection eXchange Denver","Denver","US","North America",90,9
+1209,"CNX","Cambodian Network Exchange","Phnom Penh","KH","Asia Pacific",48,4
+1210,"M-IX","Media-IX","Simferopol","RU","Europe",6,0
+1212,"MGMix Montgomery","Montgomery Internet Exchange","Montgomery","US","North America",20,1
+1214,"DE-CIX Dusseldorf","","Düsseldorf","DE","Europe",207,5
+1228,"CDIX","Cyber Data Internet Xchange","Jakarta","ID","Asia Pacific",84,1
+1229,"CODIX","CODIX","St.Petersburg","RU","Europe",2,0
+1235,"MegaIX Perth","Megaport MegaIX Perth","Perth","AU","Australia",61,6
+1242,"W-IX","","Moscow","RU","Europe",66,5
+1249,"DE-CIX Dallas","","Dallas","US","North America",161,18
+1262,"INEX Cork","","Cork","IE","Europe",11,1
+1276,"IX.br (PTT.br) Foz do Iguaçu","IX.br (PTT.br) Foz do Iguaçu","Foz do Iguaçu/PR","BR","South America",29,2
+1277,"DE-CIX Madrid","","Madrid","ES","Europe",190,4
+1284,"CHN-IX Guangzhou","CHN-IX China Guangzhou","Guangzhou","CN","Asia Pacific",1,1
+1285,"SIX Seattle (Jumbo)","Seattle Internet Exchange (MTU 9000)","Seattle","US","North America",66,15
+1302,"IX Liverpool - MICT","IX Liverpool - MICT Data Centre","Liverpool","GB","Europe",3,3
+1303,"CNIX","China Internet Exchange","Beijing","CN","Asia Pacific",20,0
+1307,"MegaIX Toronto","Megaport MegaIX Toronto","Toronto","CA","North America",16,13
+1308,"LSIX","LayerSwitch Internet Exchange","Amsterdam, The Hague, Rotterdam, Naaldwijk","NL","Europe",103,15
+1317,"NIXI Kolkata","National Internet eXchange of India","Kolkata","IN","Asia Pacific",29,2
+1320,"Hopus","The HOPUS - the routed exchange","Paris, Lyon, Marseille, Geneva, Zurich, Amsterdam, Frankfurt","FR","Europe",33,14
+1323,"Extreme IX Delhi","ExtremeIX Delhi","Delhi","IN","Asia Pacific",182,13
+1329,"Community-IX","Non-commercial Community Exchange","Berlin, Frankfurt","DE","Europe",25,6
+1332,"FICIX 1 (Espoo)","FICIX 1 Espoo","Espoo","FI","Europe",37,2
+1335,"MGIX","Madagascar Global Internet eXchange","Antananarivo","MG","Africa",5,1
+1354,"LebIX","Beirut Internet Exchange - Lebanon","Beirut","LB","Middle East",17,1
+1375,"CHN-IX Shanghai","CHN-IX China Shanghai","Shanghai","CN","Asia Pacific",0,0
+1387,"DataLine-IX","","Moscow","RU","Europe",4,2
+1409,"BINX","Botswana Internet Exchange","Gaborone","BW","Africa",0,0
+1418,"TIX Tromsø","TIX Tromsø","Tromsø","NO","Europe",8,0
+1419,"SIX Stavanger","SIX Stavanger","Stavanger","NO","Europe",10,1
+1420,"TRDIX Trondheim","TRDIX Trondheim","Trondheim","NO","Europe",10,1
+1421,"BW-IX Karlsruhe","Baden-Württemberg Internet Exchange - Karlsruhe","Karlsruhe","DE","Europe",6,1
+1423,"WRIX","Wrocław Internet Exchange","Wrocław","PL","Europe",37,1
+1449,"BBIX Hong Kong","BroadBand Internet eXchange Hong Kong","Hong Kong","HK","Asia Pacific",104,2
+1464,"Equinix Helsinki","Equinix Internet Exchange Helsinki","Helsinki","FI","Europe",17,4
+1488,"Ninja-IX Las Vegas","","Las Vegas","US","North America",7,1
+1490,"Ninja-IX Richmond","Ninja-IX Richmond","Richmond","US","North America",8,1
+1508,"MIXP","Mauritius Internet Exchange Point","Ebene","MU","Africa",21,2
+1514,"PIT Santiago - PIT Chile","PIT Chile Santiago/ IXP Chile Santiago","Santiago","CL","South America",153,13
+1516,"IX.LODZ.PL","IX.LODZ.PL - Łódzki Węzeł Telekomunikacyjny","Łódź","PL","Europe",10,0
+1519,"FD-IX - St. Louis","Fiber Data Internet Exchange - St. Louis","St. Louis, MO","US","North America",16,4
+1522,"IXpy","Punto de Intercambio de Tráfico de Paraguay","San Lorenzo","PY","South America",25,1
+1533,"inet2","","Mowsow, St.Petersburg, Novosibirsk, Ekaterinburg","RU","Europe",6,0
+1561,"PhOpenIX-Manila","Philippine Open Internet Exchange (Manila)","Manila","PH","Asia Pacific",46,0
+1574,"TIX Tanzania - Mwanza","","Mwanza","TZ","Africa",6,0
+1577,"Kolkata IX","India Internet Foundation","Kolkata","IN","Asia Pacific",29,2
+1582,"MegaFon-IX","","Moscow","RU","Europe",12,0
+1623,"AMS-IX Mumbai","Amsterdam Internet Exchange Mumbai","Mumbai","IN","Asia Pacific",68,3
+1627,"Extreme IX Mumbai","ExtremeIX Mumbai","Mumbai","IN","Asia Pacific",254,15
+1628,"MegaIX Las Vegas","Megaport MegaIX Las Vegas","Las Vegas","US","North America",4,3
+1658,"npIX AWT","Internet Exchange Nepal AWT","Lalitpur","NP","Asia Pacific",18,1
+1660,"IXP Ecuador - STD","IXP Ecuador - Santo Domingo","Santo Domingo","EC","South America",2,0
+1663,"RIX (RYUKYUIX)","Ryukyus Internet Exchange","Urasoe,  Naha, Ginoza, Nago, Uruma, Okinawa","JP","Asia Pacific",6,4
+1668,"CIX-ATL","Community IX - Atlanta","Atlanta","US","North America",117,11
+1669,"BAIKAL-IX","","Irkutsk","RU","Europe",10,0
+1670,"BreizhIX","Breizh-IX","Rennes","FR","Europe",20,2
+1679,"NNENIX","Northern New England Neutral Internet Exchange","Portland","US","North America",10,3
+1684,"IX.br (PTT.br) Aracaju","IX.br (PTT.br) Aracaju","Aracaju/SE","BR","South America",35,1
+1689,"NIXI Bangalore","","Bangalore","IN","Asia Pacific",7,2
+1690,"NIXI Ahmedabad","NIXI Ahmedabad Internet Exchange","Ahmedabad","IN","Asia Pacific",0,2
+1748,"MSK-IX Riga","MSK-IX Riga","Riga","LV","Europe",0,1
+1754,"MIXP.me","Montenegro Internet eXchange Point","Podgorica","ME","Europe",2,0
+1771,"VNIX-HCM","","Ho Chi Minh City","VN","Asia Pacific",6,0
+1772,"VNIX-HN","","Hanoi","VN","Asia Pacific",7,0
+1773,"VNIX-DN","","Da Nang","VN","Asia Pacific",5,0
+1776,"GABIX","Gabon Internet eXchange","Libreville","GA","Africa",8,2
+1785,"Extreme IX Hyderabad","ExtremeIX Hyderabad","Hyderabad","IN","Asia Pacific",22,5
+1786,"Extreme IX Chennai","ExtremeIX Chennai","Chennai","IN","Asia Pacific",94,10
+1790,"GREX","Grenada Internet Exchange Point","St. George's","GD","North America",12,0
+1812,"Asteroid Amsterdam","Asteroid Amsterdam IX","Amsterdam","NL","Europe",20,2
+1816,"A.IX","Advanced IX Lebanon","Beirut","LB","Middle East",13,0
+1829,"YXEIX","Saskatoon Internet Exchange Inc","Saskatoon","CA","North America",25,1
+1833,"IXP Ecuador - MEC","IXP Ecuador - Manta","Manta","EC","South America",0,0
+1836,"HIX-NZ","Hamilton Internet Exchange","Hamilton","NZ","Asia Pacific",0,0
+1837,"DPE","Dunedin Peering Exchange","Dunedin","NZ","Asia Pacific",0,0
+1842,"Speed-IX","Speed Internet Exchange","Dronten","NL","Europe",271,11
+1847,"IX.br (PTT.br) Santa Maria","IX.br (PTT.br) Santa Maria","Santa Maria/RS","BR","South America",9,2
+1861,"CN-IX-SH","CN-IX","ShangHai","CN","Asia Pacific",4,0
+1862,"CN-IX-BJ","","BeiJing","CN","Asia Pacific",1,0
+1863,"CN-IX-GZ","","GuangZhou","CN","Asia Pacific",2,0
+1868,"STHIX - Gothenburg","","Gothenburg","SE","Europe",12,2
+1869,"STHIX - Copenhagen","","Copenhagen","DK","Europe",19,3
+1870,"IXPN Abuja","Internet exchange Point of Nigeria, Abuja","Abuja","NG","Africa",17,0
+1886,"Cnean","","BeiJing","CN","Asia Pacific",1,0
+1896,"InteRed Panama","","Panama","PA","South America",26,0
+1915,"PIT Concepcion - PIT Chile","","Concepcion","CL","South America",7,1
+1917,"PIT Temuco - PIT Chile","","Temuco","CL","South America",4,1
+1923,"Equinix Stockholm","Equinix Internet Exchange Stockholm","Stockholm","SE","Europe",18,3
+1925,"Equinix Milan","Equinix Internet Exchange Milan","Milan","IT","Europe",35,4
+1926,"Equinix Dublin","Equinix Internet Exchange Dublin","Dublin","IE","Europe",16,4
+1927,"Equinix Manchester","Equinix Internet Exchange Manchester","Manchester","GB","Europe",21,4
+1933,"PCIX","Piacenza Internet Exchange","Piacenza","IT","Europe",29,8
+1958,"Mesh.IX","Meshroom Internet Exchange Point","Dnipro","UA","Europe",3,3
+1977,"CLOUD-IX MSK","CLOUD-IX MSK","Moscow","RU","Europe",53,19
+1978,"CLOUD-IX SPB","","St. Petersburg","RU","Europe",25,8
+1982,"CLOUD-IX EKT","CLOUD-IX EKT","Ekaterinburg","RU","Europe",6,3
+1983,"IX.br (PTT.br) João Pessoa","IX.br (PTT.br) João Pessoa","João Pessoa/PB","BR","South America",27,2
+1984,"RomandIX","","Lausanne","CH","Europe",20,2
+1997,"Equinix London","Equinix Internet Exchange London","London","GB","Europe",54,7
+1998,"Equinix Frankfurt","Equinix Internet Exchange Frankfurt","Frankfurt","DE","Europe",80,6
+1999,"PIT-IX","Pittsburgh Internet Exchange","Pittsburgh","US","North America",35,3
+2004,"ANIX","Albanian Neutral Internet eXchange","Tirana","AL","Europe",23,1
+2005,"BALT-IX","Baltic Internet Exchange","Vilnius","LT","Europe",63,8
+2013,"Community-IX.ch","Community-IX.ch","Zurich","CH","Europe",18,3
+2031,"Equinix Amsterdam","Equinix Internet Exchange Amsterdam","Amsterdam","NL","Europe",50,6
+2032,"Ninja-IX Sacramento","Ninja-IX Sacramento","Sacramento","US","North America",7,1
+2035,"Eurasia Peering IX","Eurasia Peering LLC","Moscow","RU","Europe",136,2
+2036,"MEX-IX McAllen","MEX-IX McAllen","McAllen","US","North America",19,1
+2050,"GPIEX","Global Peering Managed Services Provider","Albany","US","North America",2,3
+2051,"IF-IX","IVANO-FRANKIVSK INTERNET EXCHANGE","Ivano-Frankivsk","UA","Europe",8,1
+2062,"Bharat IX - Mumbai","Bharat Internet Exchange in Mumbai","Mumbai","IN","Asia Pacific",2,0
+2066,"IXP.MX - Mexico City","","Ciudad de México","MX","North America",6,1
+2070,"MonctonIX","Moncton Internet Exchange","Moncton","CA","North America",10,1
+2078,"IX.br (PTT.br) Teresina","IX.br (PTT.br) Teresina","Teresina/PI","BR","South America",35,0
+2084,"LOCIX FRANKFURT","LOCIX EXCHANGE FRANKFURT","Frankfurt am Main","DE","Europe",203,14
+2086,"IX.br (PTT.br) São Luís","IX.br (PTT.br) São Luís","São Luís/MA","BR","South America",55,1
+2088,"PhillyIX","Philadelphia Internet Exchange","Philadelphia","US","North America",28,3
+2102,"MMIX Yangon","Myanmar Internet Exchange","Yangon","MM","Asia Pacific",46,2
+2116,"GOREX","Guam Open Research & Education Exchange","Piti","GU","Asia Pacific",5,1
+2124,"CFLIX (Central Florida Internet Exchange)","Central Florida Internet Exchange","Orlando","US","North America",0,1
+2130,"Equinix Madrid","Equinix Internet Exchange Madrid","Madrid","ES","Europe",12,1
+2131,"Equinix Lisbon","Equinix Internet Exchange Lisbon","Lisbon","PT","Europe",19,2
+2145,"KG-IX Bishkek","","Bishkek","KG","Europe",22,1
+2149,"PITER-IX Saint-Petersburg","PITER-IX SPB","Saint-Petersburg","RU","Europe",245,12
+2163,"FCIX","Fremont Cabal Internet Exchange","Fremont","US","North America",142,2
+2167,"Extreme IX Kolkata","ExtremeIX Kolkata","Kolkata","IN","Asia Pacific",26,2
+2176,"PIT entel","","Santiago","CL","South America",3,2
+2182,"Equinix Denver","Equinix Internet Exchange Denver","Denver","US","North America",4,2
+2183,"Equinix Houston","Equinix Internet Exchange Houston","Houston","US","North America",0,1
+2186,"Baltimore IX","Baltimore Internet Exchange","Baltimore","US","North America",3,2
+2195,"Amaravati IX","Amaravati IX","Amaravati","IN","Asia Pacific",12,1
+2207,"DV-IX","","Chita","RU","Asia Pacific",1,0
+2208,"TIX Tanzania - Zanzibar","","Zanzibar","TZ","Africa",6,0
+2210,"ANI-IX Delhi","ANO Peering Exchange","Delhi","IN","Asia Pacific",30,3
+2239,"BHNIX","Bosnia and Herzegovina Neutral Internet Exchange","Sarajevo","BA","Europe",9,1
+2245,"NIXA","National Internet Exchange of Afghanistan","Kabul","AF","Asia Pacific",16,0
+2250,"KAZ-GOV-IX Astana","Kazakhstan Government Internet Exchange Astana","Astana","KZ","Asia Pacific",14,1
+2251,"Remki Internet Exchange (RIX)","Remki Internet Exchange (RIX) - Remki IX","Guntur","IN","Asia Pacific",1,1
+2253,"ix.kw","Kuwait Internet Exchange","Kuwait City","KW","Middle East",15,2
+2272,"TTIX2","","Princes Town","TT","South America",8,1
+2274,"EVIX","Experimental Virtual Internet Exchange","Fremont","US","North America",171,2
+2276,"IXP.mk","Faculty of Computer Science and Engineering - IXP.mk","Skopje","MK","Europe",17,3
+2286,"FD-IX - Ohio","MidWest-IX - Ohio","Cleveland, Ohio","US","North America",5,10
+2289,"Equinix Bogota","Equinix Internet Exchange Bogota","Bogota","CO","South America",48,2
+2291,"IX.br (PTT.br) Maceió","IX.br (PTT.br) Maceió","Maceió/AL","BR","South America",31,1
+2299,"SAIX Saudi Arabia Riyadh","Saudi Arabia Internet Exchange Riyadh","Riyadh","SA","Middle East",34,1
+2301,"MARIIX","Mariana Islands Internet Exchange","Mangilao","GU","Asia Pacific",9,1
+2317,"Ninja-IX Charlotte","","Charlotte","US","North America",3,2
+2318,"Ninja-IX Dallas","","Dallas","US","North America",7,2
+2319,"Ninja-IX Houston","Ninja-IX Houston","Houston","US","North America",3,1
+2320,"SIXP Sudan","Sudan Internet Exchange Point","Khartoum","SD","Africa",4,0
+2332,"PNG Neutral IX POM","","Port Moresby","PG","Asia Pacific",13,0
+2341,"REDIX Chennai","REDIX Chennai","Chennai","IN","Asia Pacific",2,2
+2345,"GetaFIX Manila","GetaFIX Manila - Philippines","Manila","PH","Asia Pacific",122,7
+2353,"PR-IX","Puerto Rico Internet Exchange, Inc.","San Juan","PR","North America",30,15
+2355,"btIX","Bhutan Internet Exchange","Thimphu","BT","Asia Pacific",15,1
+2362,"KIXP-Mombasa","","Mombasa","KE","Africa",40,2
+2365,"CHIX-CH","CHIXSWITZERLAND","Frauenfeld","CH","Europe",68,11
+2381,"AMS-IX Lagos","AMS-IX Lagos","Lagos","NG","Africa",53,1
+2386,"GR-IX::Thessaloniki","Greek Internet Exchange - Thessaloniki","Thessaloniki","GR","Europe",20,1
+2387,"SJIX","Saint John Internet Exchange","Saint John, NB","CA","North America",1,1
+2388,"TGIX","Togo Internet Exchange Point","Lomé","TG","Africa",9,1
+2402,"SPACE-IX","","Moscow","RU","Europe",0,0
+2407,"MISPA-IXP","MISPA internet exchange point","Ulaanbaatar","MN","Asia Pacific",13,0
+2410,"SoIXP","Somali Internet Exchange Point","Mogadishu","SO","Africa",0,0
+2414,"IXPN Kano","","Kano","NG","Africa",6,0
+2415,"IXPN Port Harcourt","Internet Exchange Point of Nigeria, Port Harcourt","Port Harcourt","NG","Africa",2,0
+2447,"4b42 Internet Exchange Point","4b42 Internet Exchange Point","Zurich","CH","Europe",290,1
+2452,"UNM-Exch Canada-West","UNMETERED.Exchange","Vancouver","CA","North America",64,2
+2454,"CSL Thai-IX Malaysia","Thai-IX Malaysia by CS Loxinfo","Bangkok","TH","Asia Pacific",13,5
+2457,"SR-IX","","Bishkek","KG","Asia Pacific",4,0
+2467,"BBIX Thailand","BBIX (Thailand) Company Limited","Bangkok","TH","Asia Pacific",49,4
+2476,"JKT-IX","Jakarta Internet Exchange","Jakarta","ID","Asia Pacific",850,6
+2486,"CMH-IX","Columbus Internet Exchange","Columbus","US","North America",7,1
+2494,"CSL Thai-IX Singapore","Thai-IX Singapore by CS Loxinfo","Bangkok","TH","Asia Pacific",16,4
+2495,"CSL Thai-IX Bangkok","Thai-IX Bangkok by CS Loxinfo","Bangkok","TH","Asia Pacific",18,4
+2496,"BelgiumIX","Belgium Internet Exchange","Brussels, Ghent, Leuven, Antwerp, Hasselt","BE","Europe",31,13
+2497,"KazNIX","KazNIX Exchange Point","Semey","KZ","Asia Pacific",12,1
+2516,"BDIX","Bangladesh Internet Exchange Trust","Dhaka","BD","Asia Pacific",163,3
+2520,"IXP-GUINEE","Association pour la Gestion du Point d'Echange Internet National","Conakry","GN","Africa",4,0
+2522,"KRIX(SEJONG)","Korea Internet Exchange","Seoul","KR","Asia Pacific",10,1
+2531,"DE-CIX Lisbon","","Lisbon","PT","Europe",63,3
+2537,"STIX","South Tyrolean Internet ExchangePoint","Bozen/Bolzano","IT","Europe",11,1
+2541,"CAMIX Douala","Cameroon Internet Exchange Point","Douala","CM","Africa",10,1
+2551,"Digital Realty Chicago","","Chicago","US","North America",7,3
+2552,"BDIXP","Burundi Internet Exchange Point","Bujumbura","BI","Africa",9,1
+2553,"LVIV-IX","Lviv Internet Exchange","Lviv","UA","Europe",16,0
+2554,"CAMIX Yaounde","Cameroon Internet Exchange Point","Yaoundé","CM","Africa",4,1
+2558,"NYIIX Philadelphia","New York International Internet eXchange - Philadelphia","Philadelphia","US","North America",5,1
+2563,"EdgeIX - Darwin","","Darwin","AU","Australia",8,2
+2564,"iX-OKC","Internet Exchange Oklahoma City","Oklahoma City","US","North America",16,1
+2569,"NL-ix 2","Neutral Internet Exchange 2","Amsterdam","NL","Europe",13,4
+2571,"SBIX Zurich","Securebit Internet Exchange Zurich","Lupfig","CH","Europe",39,1
+2572,"Digital Realty Ashburn","Digital Realty Ashburn Internet Exchange","Ashburn","US","North America",10,2
+2584,"CANIX Ottawa","","Ottawa / Gatineau","CA","North America",15,1
+2585,"STLIX","Saint Louis Internet Exchange","Saint Louis, MO","US","North America",83,4
+2587,"DE-CIX Delhi","","Delhi","IN","Asia Pacific",103,9
+2588,"DE-CIX Chennai","","Chennai","IN","Asia Pacific",76,10
+2589,"DE-CIX Kolkata","","Kolkata","IN","Asia Pacific",18,3
+2601,"LOCIX NETHERLANDS","LOCIX EXCHANGE NETHERLANDS","Meppel","NL","Europe",48,2
+2602,"EdgeIX - Hobart","","Hobart","AU","Australia",7,0
+2611,"KM-IX old","Khmelnitskiy Internet Exchange Point","Хмельницький","UA","Europe",2,0
+2612,"SAT-IX","San Antonio Internet Exchange","San Antonio, TX","US","North America",5,1
+2617,"Harare IX","Harare Internet eXchange Point","Harare","ZW","Africa",2,0
+2622,"IIX-Bali","Bali Internet eXchange","Denpasar","ID","Asia Pacific",36,2
+2624,"TIX Tanzania - Dodoma","Dodoma Internet Exchange Point - DIXP","Dodoma","TZ","Africa",8,0
+2627,"Equinix Perth","Equinix Internet Exchange Perth","Perth","AU","Australia",27,1
+2628,"center3 IX Jeddah","center3 Internet Exchanges powered by LINX","Jeddah","SA","Middle East",25,1
+2631,"Manama IX","Manama Internet Exchange (MN-IX)","Manama","BH","Middle East",28,1
+2633,"Equinix Barcelona","Equinix Internet Exchange Barcelona","Barcelona","ES","Europe",11,1
+2658,"EdgeIX - Adelaide","","Adelaide","AU","Australia",36,4
+2665,"MLIX","Point d'échange du Mali","Bamako","ML","Africa",5,1
+2670,"BatamIX Jakarta","Batam Internet Exchange","Jakarta","ID","Asia Pacific",7,3
+2672,"DACS-IX East","DACS-IX East Region","Washington DC","US","North America",15,5
+2675,"VarnaIX","Varna Internet Exchange","Varna","BG","Europe",17,0
+2677,"STHIX - Sundsvall","","Sundsvall","SE","Europe",3,1
+2680,"PIT - Peru - Lima","PIT Lima","Lima","PE","South America",90,4
+2682,"SIXP Gambia","Serekunda Internet Exchange Point","Serekunda","GM","Africa",2,0
+2685,"Equinix Seoul","Equinix Internet Exchange Seoul","Seoul","KR","Asia Pacific",10,2
+2693,"UEPG Internet Exchange","UEPG Internet Exchange","Ponta Grossa/PR","BR","South America",11,1
+2700,"IXP FI HEL","Internet Exchange Point - Helsinki","Helsinki","FI","Europe",15,0
+2704,"IXP UK LON","Internet Exchange Point - London","London","GB","Europe",19,0
+2705,"IXP NL DRO","Internet Exchange Point Netherlands Dronten","Dronten","NL","Europe",19,0
+2706,"IXP NUR","","Nürnberg","DE","Europe",3,0
+2713,"CAS-IX","Casablanca Internet Exchange Point","Casablanca","MA","Africa",3,1
+2715,"MYNAP","Malaysia Network Access Point (MYNAP)","Cyberjaya","MY","Asia Pacific",1,1
+2718,"EdgeIX - Perth","","Perth","AU","Australia",68,5
+2722,"LUBIX","Lubumbashi internet exchange point","Lubumbashi","CD","Africa",12,0
+2726,"BrestIX","","Brest","FR","Europe",2,0
+2728,"IXP LI VAD","","Vaduz","LI","Europe",10,0
+2729,"BFIX Ouagadougou","Burkina Faso Internet Exchange Point (BFIX) Ouaga","Ouagadougou","BF","Africa",16,3
+2730,"LOCIX DUSSELDORF","LOCIX EXCHANGE DUSSELDORF","Dusseldorf","DE","Europe",185,2
+2732,"RO-IX","Internet eXchange RO-IX","Bucharest","RO","Europe",2,3
+2737,"CXC Jakarta","CLOUDXCHANGE","Jakarta","ID","Asia Pacific",205,10
+2741,"QCIX","Quad Cities Internet eXchange","Davenport","US","North America",63,6
+2746,"IXP US FRE","","Fremont","US","North America",13,0
+2753,"SBIX Amsterdam","Securebit Internet Exchange Amsterdam","Amsterdam","NL","Europe",5,0
+2756,"EdgeIX - Brisbane","","Brisbane","AU","Australia",53,3
+2761,"EdgeIX - Sydney","","Sydney","AU","Australia",130,10
+2762,"EdgeIX - Melbourne","","Melbourne","AU","Australia",74,5
+2766,"IIX-Jabar","Jabar IX - JABRIX","Bandung","ID","Asia Pacific",43,1
+2767,"IIX-Lampung","","Bandar Lampung","ID","Asia Pacific",16,1
+2774,"Rottweiler Internet Exchange","","Rottweil","DE","Europe",3,0
+2775,"NIX-BD","Neutral Internet Exchange Bangladesh","Noakhali","BD","Asia Pacific",0,1
+2776,"CSIX","CloudSingularity Internet Exchange","Vancouver","CA","North America",16,4
+2783,"Gig IX Ashburn","","Ashburn","US","North America",3,0
+2784,"FURB IX","","Blumenau","BR","South America",3,1
+2785,"STHIX - Umeå","","Umeå","SE","Europe",3,0
+2786,"AIX-BD","aamra NIX","Dhaka","BD","Asia Pacific",34,1
+2787,"TR-IX","TURK Internet eXchange","Istanbul","TR","Europe",12,3
+2797,"CHC-IX (Christchurch NZ)","New Zealand Internet Exchange, Christchurch","Christchurch","NZ","Asia Pacific",16,2
+2798,"IXP BEA","","Beauharnois","CA","North America",0,0
+2799,"ITI-IX","ITI-IX","Tashkent","UZ","Asia Pacific",0,2
+2801,"LONAP Multicast","","London","GB","Europe",0,11
+2802,"MekongIX","","Phnom Penh","KH","Asia Pacific",3,1
+2804,"RO-CIX","","Braila","RO","Europe",4,4
+2812,"NIXI Guwahati","","Guwahati","IN","Asia Pacific",1,1
+2815,"Asteroid Mombasa","Asteroid Mombasa","Mombasa","KE","Africa",1,0
+2819,"QIX Qatar","Qatar Internet Exchange (QIX)","Doha","QA","Middle East",28,3
+2822,"IX.br (PTT.br) Cascavel","IX.br (PTT.br) Cascavel","Cascavel/PR","BR","South America",34,3
+2830,"MUS-IX","MIDSOUTH U.S. Internet Exchange","Dallas, TX","US","North America",11,2
+2835,"HOUIX","Houston Internet Exchange","Houston","US","North America",60,4
+2836,"SNS-IX","SNS-IX","Tashkent","UZ","Asia Pacific",18,1
+2845,"Netnod Stockholm GREEN -- MTU4470","","Stockholm","SE","Europe",77,12
+2846,"Netnod Stockholm BLUE -- MTU1500","","Stockholm","SE","Europe",180,12
+2847,"Netnod Stockholm BLUE -- MTU4470","","Stockholm","SE","Europe",77,12
+2848,"NIX.CZ FENIX","","Prague","CZ","Europe",8,11
+2849,"GigaPIX - LAN 2","GIGAbit Portuguese Internet eXchange - LAN 2","Lisbon","PT","Europe",17,4
+2853,"FICIX 2 (Helsinki) IPv6 MTU 9000","","Helsinki","FI","Europe",6,1
+2861,"JINX Voice","","Johannesburg","ZA","Africa",4,4
+2865,"Netnod Gothenburg -- MTU4470","","Gothenburg","SE","Europe",13,2
+2868,"Netnod Copenhagen BLUE -- MTU9K","","Malmo / Copenhagen","DK","Europe",68,4
+2869,"Netnod Sundsvall -- MTU4470","","Sundsvall / Gavle","SE","Europe",10,3
+2899,"CINX Voice","","Cape Town","ZA","Africa",0,3
+2904,"FICIX 3 (Oulu) IPv6 MTU 9000","","Oulu","FI","Europe",2,1
+2915,"Giganet IXN Odesa","Giganet IXN Odesa local exchange","Odessa","UA","Europe",22,6
+2916,"Giganet IXN Kharkіv","Giganet IXN Kharkiv local exchange","Kharkiv","UA","Europe",13,7
+2918,"Giganet IXN Warsaw","GigaNET Warsaw local exchange","Warsaw","PL","Europe",48,9
+2955,"IX Liverpool - Baltic Bubble","IX Liverpool - Baltic Bubble Data Centre","Liverpool","GB","Europe",3,3
+2956,"IX Liverpool Internet of Things LAN","","Liverpool","GB","Europe",0,3
+2957,"IX Liverpool GRX Peering Exchange (5G)","","Liverpool","GB","Europe",0,3
+2963,"FICIX 1 (Espoo) IPv6 MTU 9000","","Espoo","FI","Europe",5,1
+3017,"PITER-IX Moscow","PITER-IX Moscow","Moscow","RU","Europe",238,14
+3018,"PITER-IX Tallinn","PITER-IX Tallin","Tallinn","EE","Europe",68,2
+3019,"PITER-IX Riga","PITER-IX Riga","Riga","LV","Europe",69,1
+3069,"ARIX","Amateur Radio Internet Exchange","Fremont, Portland, Flagstaff","US","North America",19,1
+3072,"Linxdatacenter-IX","Linxdatacenter Internet Exchange","Moscow","RU","Europe",5,1
+3079,"SUMMIT NIX","Summit Communications National Internet Exchange","Dhaka","BD","Asia Pacific",20,0
+3081,"Statewide NC-IX","Statewide North Carolina Internet Exchange","Charlotte","US","North America",4,1
+3085,"Fiji-IXP","","Suva","FJ","Asia Pacific",3,0
+3087,"IIX-Jogja","Jogja Internet Exchange - JIX","Yogyakarta","ID","Asia Pacific",28,1
+3090,"SpokaneIX","Spokane Internet Exchange","Spokane","US","North America",12,4
+3091,"Navégalo IXPCR","Navégalo IXP Costa Rica","San Jose","CR","South America",0,0
+3093,"FSIX Shanghai","Fantasy Sky Shanghai Internet eXchange","Shanghai","CN","Asia Pacific",2,0
+3096,"IX.br (PTT.br) Campo Grande","IX.br (PTT.br) Campo Grande","Campo Grande/MS","BR","South America",31,2
+3097,"TIX Tanzania - Mbeya","Mbeya Internet Exchange","Mbeya","TZ","Africa",2,0
+3098,"BFD-IX","BFD-IX","Bradford","GB","Europe",18,2
+3105,"DACS-IX Central","DACS-IX Central Region","Chicago","US","North America",7,1
+3106,"DACS-IX West","DACS-IX West Region","Silicon Valley","US","North America",10,2
+3117,"FEZIX","","Fez","MA","Africa",3,1
+3118,"SBIX Dusseldorf","Securebit Internet Exchange Dusseldorf","Dusseldorf","DE","Europe",5,1
+3122,"PIONIER-IX","PIONIER-IX","Białystok, Poznań, Wrocław, Szczecin, Opole, Częstochowa","PL","Europe",5,1
+3148,"HPT1-IX","Hawaii Pacific Teleport IX-1","honolulu","US","Asia Pacific",1,1
+3149,"IXPlay Global Peers","","Madrid","ES","Europe",61,6
+3156,"JTIX (Thailand)","JasTel Internet Exchange","Nonthaburi","TH","Asia Pacific",12,2
+3160,"NEO-IX","North East Ohio Internet Exchange","Akron, Ohio","US","North America",7,3
+3166,"ZXIX Hangzhou","ZX Internet Exchange Hangzhou","Hangzhou","CN","Asia Pacific",28,0
+3168,"Palestine Internet Exchange Point - PSIX","Palestine Internet Exchange Point","Ramallah","PS","Middle East",21,1
+3170,"DCI Indonesia DCI-IX","DCI Indonesia Internet Exchange","Bekasi","ID","Asia Pacific",57,8
+3175,"TOHU IX","","Guangzhou","CN","Asia Pacific",19,0
+3179,"48 IX","","Phoenix","US","North America",4,1
+3182,"PIT - Guatemala - Guatemala City","Punto de Intercambio de Tráfico de Guatemala","Guatemala City","GT","North America",25,1
+3184,"SEECIX","South East Europe Cloud & Interconnection Exchange powered by DE-CIX","Athens","GR","Europe",17,1
+3185,"BBIX US-West","BroadBand Internet eXchange US-West","West Coast","US","North America",88,2
+3186,"BBIX Dallas","BroadBand Internet eXchange Dallas","Dallas","US","North America",3,1
+3187,"BBIX Chicago","BroadBand Internet eXchange Chicago","Chicago","US","North America",3,1
+3188,"BBIX Miami","BroadBand Internet eXchange Miami","Miami","US","North America",1,1
+3189,"BBIX London","BroadBand Internet eXchange London","London","GB","Europe",3,1
+3190,"BBIX Amsterdam","BroadBand Internet eXchange Amsterdam","Amsterdam","NL","Europe",50,2
+3192,"ManxIX","","Douglas","IM","Europe",0,0
+3195,"SpringIX","Springfield Internet eXchange","Springfield, MO","US","North America",16,2
+3211,"STACIX","Staclar Internet Exchange","Frankfurt","DE","Europe",8,4
+3212,"Equinix Rio de Janeiro","Equinix Internet Exchange Rio de Janeiro","Rio de Janeiro","BR","South America",20,2
+3224,"BVIX","BVI Internet Exchange","Road Town","VG","North America",8,0
+3226,"IX42 LAS","Internet eXchange 42 Las Vegas","Las Vegas","US","North America",11,0
+3230,"IXRR Internet Exchange Roraima","IXRR Internet Exchange Roraima","Boa Vista","BR","South America",7,1
+3232,"OpenSwitch-IX","OpenSwitch-IX India's First IXP to offer tunnels","Kolkata","IN","Asia Pacific",9,0
+3237,"IX42 SG","Internet eXchange 42 Singapore","Singapore","SG","Asia Pacific",2,0
+3238,"IXP INFOCOM","IXP INFOCOM Costa Rica","San José","CR","North America",1,1
+3246,"ZXIX Hong Kong","ZX Internet Exchange Hong Kong","Hong Kong","HK","Asia Pacific",76,0
+3247,"FD-IX - Austin","Fiber Data Internet Exchange","Austin","US","North America",4,4
+3261,"IXP.MX - Querétaro","","Querétaro","MX","North America",0,1
+3264,"FD-IX - Houston","FD-IX Houston","Houston","US","North America",6,7
+3266,"Equinix Mexico","Equinix Internet Exchange Mexico","Mexico City","MX","North America",8,1
+3278,"IXBradford","","Bradford","GB","Europe",9,1
+3280,"KA-NIX","Karlsruhe Neutral Internet Exchange","Karlsruhe","DE","Europe",8,3
+3283,"THESS-IX","Thessaloniki - Internet Exchange","Thessaloniki","GR","Europe",12,1
+3285,"GeekIX Taoyuan (Jumbo)","Geek Networks Exchange Taiwan Taoyuan","Taoyuan","TW","Asia Pacific",11,0
+3286,"SBIX FRE","Securebit Internet Exchange Fremont","Fremont / Neuheim","US","Europe",10,0
+3288,"Grunix","GrunIX","Groningen","NL","Europe",7,1
+3290,"MIX Palermo","Milan Internet Exchange","Palermo","IT","Europe",19,1
+3299,"PITER-IX Helsinki","PITER-IX Helsinki","Helsinki","FI","Europe",126,1
+3302,"PyramIX","Pyramids Internet Exchange","Cairo","EG","Africa",18,3
+3303,"BKNIX Chiang Mai (Thailand)","BKNIX Chiang Mai","Chiang Mai","TH","Asia Pacific",8,0
+3312,"JumboIX Peru","Jumbo Internet Exchange powered by IPTP Networks","Lima","PE","South America",26,11
+3322,"ABQIX","","Albuquerque","US","North America",12,4
+3329,"IIX-Jateng","Jawa Tengah Internet eXchange","Semarang","ID","Asia Pacific",7,0
+3333,"PIT Bolivia","Punto de Intercambio de Tráfico PIT Bolivia - Entidad Civil sin fines de lucro","La Paz","BO","South America",18,1
+3335,"Equinix Muscat","Equinix Internet Exchange Muscat","Muscat","OM","Middle East",7,1
+3337,"BIX Surabaya","Biznet Internet Exchange","Surabaya, East Java","ID","Asia Pacific",12,1
+3338,"BIX Malang","Biznet Internet Exchange","Malang, East Java","ID","Asia Pacific",6,1
+3339,"BIX Semarang","Biznet Internet Exchange","Semarang, Central Java","ID","Asia Pacific",3,0
+3340,"BIX Denpasar 1","Biznet Internet Exchange","Denpasar, Bali","ID","Asia Pacific",8,1
+3341,"BIX Denpasar 2","Biznet Internet Exchange","Denpasar, Bali","ID","Asia Pacific",0,1
+3342,"IX-DO","PUNTO DE INTERCAMBIO DE TRAFICO DE INTERNET DE LA REPUBLICA DOMINICANA","Santo Domingo","DO","North America",0,0
+3348,"JPNAP Fukuoka","JPNAP Fukuoka","Fukuoka","JP","Asia Pacific",20,3
+3352,"STUIX","Student & Technology United Internet Exchanges","Taipei City","TW","Asia Pacific",124,2
+3365,"BatamIX Batam","Batam Internet Exchange","Batam","ID","Asia Pacific",3,2
+3366,"Aqaba IX","Aqaba IX","Aqaba","JO","Middle East",19,1
+3373,"NCL-IX","Newcastle IX","Newcastle","GB","Europe",6,2
+3378,"DE-CIX Chicago","","Chicago","US","North America",83,11
+3379,"PCTA-IX Luzon","PCTA Internet Exchange","Pasig City","PH","Asia Pacific",14,3
+3384,"BéarnIX","","Pau","FR","Europe",9,0
+3387,"NCJX-Neutral Connect J-Xchange","","Jakarta","ID","Asia Pacific",2,0
+3393,"HamroIX-Amsterdam","Hamro Internet eXchange","Amsterdam","NL","Europe",4,0
+3401,"BFIX Bobo-Dioulasso","Burkina Faso Internet Exchange Point (BFIX) Bobo","Bobo-Dioulasso","BF","Africa",6,0
+3403,"NAPAfrica MAPS Johannesburg","MAPS @ NAPAfrica Johannesburg","Johannesburg","ZA","Africa",26,1
+3405,"Ruhr-CIX","","Ruhr Region","DE","Europe",9,3
+3407,"PaducahIX","Paducah Internet Exchange","Paducah","US","North America",10,1
+3408,"HSIX-NZ","HackerSpace Networking - Auckland, NZ","Auckland","NZ","Australia",1,0
+3409,"HSIX-QLD","HackerSpace Networking - Brisbane, QLD","Brisbane","AU","Australia",1,0
+3410,"HSIX-NSW","HackerSpace Networking - Sydney, NSW","Sydney","AU","Australia",1,0
+3411,"HSIX-VIC","HackerSpace Networking - Melbourne, VIC","Melbourne","AU","Australia",1,0
+3412,"HSIX-WA","HackerSpace Networking - Perth, WA","Perth","AU","Australia",1,0
+3413,"HSIX-SA","HackerSpace Networking - Adelaide, SA","Adelaide","AU","Australia",1,0
+3414,"HSIX-APAC","HackerSpace Networking - Oceania","Sydney","AU","Australia",0,0
+3416,"PITER-IX Kiev","PITER-IX Kiev","Киев","UA","Europe",26,0
+3417,"PNG Neutral IX Lae","","Lae","PG","Asia Pacific",4,0
+3418,"PIT - Peru - Arequipa","anteriormente Peru IX Arequipa","Arequipa","PE","South America",14,1
+3422,"kremen-IX","","Kremenchuk","UA","Europe",9,2
+3428,"TRUE-IX","True Internet Corporation Co., Ltd.","Bangkok","TH","Asia Pacific",19,6
+3430,"HamroIX-Rome","","Rome","IT","Europe",1,1
+3436,"Ouest.Network","Ouest.Network","Nantes","FR","Europe",9,2
+3440,"Borneo-IX","","Bandar Seri Begawan","BN","Asia Pacific",11,4
+3445,"Ninja-IX Raleigh","","Raleigh, NC","US","North America",2,1
+3446,"DE-CIX Barcelona","DE-CIX Barcelona","Barcelona","ES","Europe",41,4
+3447,"GeekIX Taoyuan","","Taoyuan","TW","Asia Pacific",0,0
+3448,"Múli IXP","","Reykjavik","IS","Europe",4,1
+3449,"IXSY","Internet Exchange Services Yucatán","Mérida","MX","North America",15,2
+3450,"IPNET-DELHI","IPNET","Delhi","IN","Asia Pacific",0,0
+3463,"SP-iXP Mumbai","Smart-Peering Internet eXchange","Mumbai","IN","Asia Pacific",2,4
+3464,"IX42 NYC","Internet eXchange 42 New York City","New York City","US","North America",0,0
+3466,"Willamette Internet Exchange","","Eugene","US","North America",13,1
+3467,"KTL-IX","Kloud Technologies National Internet Exchange [ ASN134508 ]","Dhaka","BD","Asia Pacific",17,1
+3471,"Aperture-IX","Aperture Internet Exchange","Hong Kong","HK","Asia Pacific",12,1
+3472,"DE-CIX ASEAN","DE-CIX ASEAN (Singapore, Malaysia, Brunei, Manila, Indonesia)","Singapore","SG","Asia Pacific",148,21
+3473,"DE-CIX Kuala Lumpur","","Kuala Lumpur","MY","Asia Pacific",36,7
+3474,"DE-CIX Malaysia","","Kuala Lumpur, Cyberjaya, Johor Bahru","MY","Asia Pacific",13,7
+3476,"Global Peer Exchange","Global Peer Exchange","Washington","US","North America",7,115
+3477,"DSIX","DreamServer InternetExchange","Bucharest","RO","Europe",11,1
+3478,"BGP.Exchange","","Global","AU","Australia",2,20
+3480,"BTCL IX","Bangladesh Telecommunications Company Limited (BTCL) IX","Dhaka","BD","Asia Pacific",39,0
+3487,"PERM-IX","Perm traffic exchange point","Perm","RU","Europe",1,0
+3495,"JinIX","Jinom Internet Exchange (JinIX)","Gianyar","ID","Asia Pacific",2,1
+3496,"Denver IX","","Denver","US","North America",3,1
+3512,"Frys-IX","The Frisian Internet Exchange","Fryslân","NL","Europe",303,15
+3528,"SIIX Pomezia","Southern Italy Internet Exchange","Pomezia","IT","Europe",11,2
+3530,"SXMIX","","SAINT-MARTIN","MF","North America",5,1
+3532,"CNI-IX","Cyber Network Indonesia - Internet Exchange","Jakarta","ID","Asia Pacific",18,6
+3534,"Tehran IX","","Tehran","IR","Middle East",3,0
+3540,"OPTIX","Open Peering & Transit Internet Exchange","Fremont","US","North America",0,0
+3541,"JumboIX Cyprus","Jumbo Internet Exchange powered by IPTP Networks","Limassol","CY","Middle East",4,1
+3543,"IXPSU Hangzhou","Internet Exchange Point SU Hangzhou by HUIZE LTD","Hangzhou","CN","Asia Pacific",5,0
+3553,"IXP APROSVA PASAJE","APROSVA-IX-PASAJE","PASAJE","EC","South America",4,0
+3557,"PIT - Peru - Trujillo","PIT Trujillo","Trujillo","PE","South America",6,0
+3558,"GetaFIX Cebu","GetaFIX Cebu - Philippines","Cebu","PH","Asia Pacific",9,2
+3560,"DesMoinesIX","DesMoines Internet eXchange","Des Moines","US","North America",8,2
+3561,"Douala-IX","Douala-IX","Douala","CM","Africa",8,1
+3562,"1-IX UA","1-IX Internet Exchange Ukraine","Kyiv, Odesa, Kharkiv, Dnipro, Poltava, Lviv, Uzhgorod, Uman","UA","Europe",111,12
+3568,"WLG-IX (Wellington NZ)","","Wellington","NZ","Australia",24,2
+3570,"Free-IX Switzerland","","Geneva, Zurich, Lugano","CH","Europe",20,3
+3572,"SaarCix","","Saarbrücken","DE","Europe",1,1
+3573,"FMIX","Fargo-Moorhead Internet Exchange","Fargo, ND","US","North America",4,1
+3574,"Baoshuo Internet Exchange","Baoshuo Education and Research Internet Exchange","/","CN","Asia Pacific",1,0
+3582,"IIX-Sumut","","Medan","ID","Asia Pacific",7,1
+3589,"GIX Cebu","Globe Internet Exchange Cebu","Cebu","PH","Asia Pacific",0,0
+3594,"EPIX.Poznan","","Poznan","PL","Europe",24,1
+3603,"ZXIX Wuhan (L)","ZX Internet Exchange Wuhan (L)","Wuhan","CN","Asia Pacific",3,0
+3607,"SONIX Stockholm","Sweden Open Network Internet eXchange","Stockholm","SE","Europe",80,8
+3612,"IX-LGS","","Lages","BR","South America",1,0
+3616,"IX.br (PTT.br) Boa Vista","IX.br (PTT.br) Boa Vista","Boa Vista/RR","BR","South America",11,1
+3626,"IXSal","IXSal (Punto de Intercambio de Tráfico de Internet de El Salvador)","San Salvador","SV","North America",0,0
+3633,"GOMIX","Goma Internet eXchange","Goma","CD","Africa",11,0
+3634,"Lambda-IX","Lambda Internet Exchange","Fremont","US","North America",22,1
+3646,"IFXVE - Lebrun","","Petare","VE","South America",0,0
+3654,"NNIX","","Hangzhou","CN","Asia Pacific",10,0
+3655,"VOLGA-IX","","Yaroslavl","RU","Europe",2,0
+3659,"GIBIRIX","GIBIR Internet Exchange","İstanbul","TR","Europe",20,14
+3671,"NCIX - neuCentrIX","neuCentrIX Internet Exchange","Jakarta","ID","Asia Pacific",66,13
+3674,"IXP.ge","","Tbilisi","GE","Europe",14,2
+3675,"Insta-IX Delhi","","Delhi","IN","Asia Pacific",8,2
+3680,"IX.br (PTT.br) Palmas","IX.br (PTT.br) Palmas","Palmas/TO","BR","South America",23,2
+3681,"RUDAKI-IX","RUDAKI INTERNET EXCHANGE","Kiev","UA","Europe",38,12
+3682,"SURAJ IX","Suraj Peering Exchange","Ghaziabad","IN","Asia Pacific",1,0
+3685,"FREMIX","Fremont Metro Internet Exchange","Fremont","US","North America",111,1
+3702,"SOLIX MTU4470","Stockholm Open Local Internet Exchange MTU4470","Stockholm","SE","Europe",18,5
+3708,"X3M-IX","X3M Infra Pvt Ltd","Mumbai","IN","Asia Pacific",6,1
+3709,"PoIX","PoIX, Neutral IX","Presov","SK","Europe",5,0
+3712,"Netnod Helsinki BLUE -- MTU9K","","Helsinki","FI","Europe",17,3
+3713,"Netnod Helsinki GREEN -- MTU9K","","Helsinki","FI","Europe",17,3
+3717,"PIT - Colombia - Medellin","","Medellin","CO","South America",11,1
+3720,"CAN'L IX","CAN'L IXP Services","NOUMEA","NC","Asia Pacific",5,1
+3721,"JPIX FUKUOKA","","Fukuoka","JP","Asia Pacific",15,3
+3722,"BBIX Fukuoka","BroadBand Internet eXchange Fukuoka","Fukuoka","JP","Asia Pacific",20,2
+3730,"MIX Bologna","Milan Internet Exchange","Bologna","IT","Europe",20,1
+3732,"RapidIX LON1","Rapid Internet Exchange","London","GB","Europe",7,1
+3733,"CNIX (Qianhai, Shenzhen)","China Internet Exchange (Qianhai, Shenzhen)","Shenzhen","CN","Asia Pacific",10,2
+3734,"Asteroid Nairobi","","Nairobi","KE","Africa",5,0
+3735,"PhIX","","Manila","PH","Asia Pacific",12,4
+3737,"PITER-IX Rostov","","Rostov","RU","Europe",30,0
+3739,"PITER-IX Frankfurt","","Frankfurt","DE","Europe",161,2
+3743,"PKIX Lahore","Pakistan Internet Exchange Lahore","Lahore","PK","Asia Pacific",0,1
+3745,"SONIX Gothenburg","Sweden Open Network Internet eXchange","Gothenburg","SE","Europe",7,2
+3750,"GLV-IX","Government of Latvia Internet Exchange","Riga","LV","Europe",7,6
+3751,"IIX Estonia","","Tallinn","EE","Europe",4,3
+3756,"FogIXP","Fog Internet Exchange Point","Avers","CH","Europe",430,10
+3761,"Ninja-IX Norfolk","Ninja-IX Norfolk","Norfolk","US","North America",3,1
+3769,"Skywolf IX US","Skywolf Internet Exchange United States","Fremont","US","North America",3,0
+3774,"AMS-IX Kolkata","Amsterdam Internet Exchange Kolkata","Kolkata","IN","Asia Pacific",6,2
+3775,"DE-CIX Phoenix","","Phoenix","US","North America",36,7
+3777,"RV-IX","","Rivne","UA","Europe",6,1
+3782,"Namex Bari","","Bari","IT","Europe",27,1
+3786,"DartPoints Bridge IX Dublin","","Dublin","US","North America",2,0
+3787,"DartPoints Bridge IX Baton Rouge, LA","DartPoints Bridge IX Baton Rouge, LA","Baton Rouge","US","North America",2,1
+3788,"AR-IX Cabase - Argentina","AR-IX Cabase IXP Nacional","Argentina","AR","South America",373,29
+3789,"ERA-IX Amsterdam","ERA-IX Amsterdam","Amsterdam","NL","Europe",188,30
+3791,"Filanco-IX","","Kiev","UA","Europe",2,2
+3792,"Poema IX","","Taipei City","TW","Asia Pacific",60,0
+3794,"PNG Neutral IX Hagen","","Mt Hagen","PG","Asia Pacific",2,0
+3800,"AMS-IX Singapore","Amsterdam Internet Exchange Singapore","Singapore","SG","Asia Pacific",13,1
+3812,"EG-IX","Egypt Internet Exchange ""EG-IX""","Cairo","EG","Middle East",18,1
+3813,"Extreme IX Bangalore","ExtremeIX Bangalore","Bangalore","IN","Asia Pacific",42,6
+3814,"Equinix Montreal","Equinix Internet Exchange Montreal","Montreal","CA","North America",4,1
+3816,"BGP.Exchange - Melbourne","BGP.Exchange - Melbourne","Melbourne","AU","Australia",15,0
+3817,"BGP.Exchange - Adelaide","BGP.Exchange - Adelaide","Adelaide","AU","Australia",9,1
+3818,"BGP.Exchange - Los Angeles","BGP.Exchange - Los Angeles","Los Angeles","US","North America",40,0
+3820,"BGP.Exchange - Singapore","BGP.Exchange - Singapore","Singapore","SG","Asia Pacific",71,0
+3821,"BGP.Exchange - London","BGP.Exchange - London","London","GB","Europe",128,0
+3822,"BGP.Exchange - Amsterdam","BGP.Exchange - Amsterdam","Amsterdam","NL","Europe",192,3
+3823,"BGP.Exchange - Sydney","BGP.Exchange - Sydney","Sydney","AU","Australia",19,0
+3824,"BGP.Exchange - Rome","BGP.Exchange - Rome","Rome","IT","Europe",33,0
+3825,"BGP.Exchange - Hong Kong","BGP.Exchange - Hong Kong","Hong Kong","HK","Asia Pacific",65,1
+3826,"BGP.Exchange - Moscow","BGP.Exchange - Moscow","Moscow","RU","Europe",13,0
+3827,"BGP.Exchange - Auckland","BGP.Exchange - Auckland","Auckland","NZ","Asia Pacific",11,0
+3828,"BGP.Exchange - Fremont","BGP.Exchange - Fremont","Fremont","US","North America",54,0
+3829,"BGP.Exchange - Frankfurt","BGP.Exchange - Frankfurt","Frankfurt","DE","Europe",231,0
+3830,"BGP.Exchange - Zurich","BGP.Exchange - Zurich","Zurich","CH","Europe",99,0
+3832,"BGP.Exchange - Barcelona","BGP.Exchange - Barcelona","Barcelona","ES","Europe",55,1
+3835,"BGP.Exchange - Kansas","BGP.Exchange - Kansas","Kansas","US","North America",53,0
+3840,"BGP.Exchange - Tel-Aviv","BGP.Exchange - Tel-Aviv","Tel-Aviv","IL","Europe",7,0
+3842,"BGP.Exchange - Valdivia","BGP.Exchange - Valdivia","Valdivia","CL","South America",6,0
+3843,"BGP.Exchange - Johannesburg","BGP.Exchange - Johannesburg","Johannesburg","ZA","Africa",18,0
+3844,"BGP.Exchange - Dusseldorf","BGP.Exchange - Dusseldorf","Dusseldorf","DE","Europe",144,0
+3849,"BGP.Exchange - Brisbane","BGP.Exchange - Brisbane","Brisbane","AU","Australia",8,0
+3850,"BGP.Exchange - Perth","BGP.Exchange - Perth","Perth","AU","Australia",9,0
+3853,"SUR-IX","Suriname Internet Exchange","Paramaribo","SR","South America",8,0
+3855,"SKNIX","St.Kitts & Nevis Internet Exchange","Basseterre","KN","North America",12,0
+3868,"Giganet IXN Zaporizhia","Ukrainian Backbone Networks","Zaporizhia","UA","Europe",5,1
+3871,"Giganet IXN Lviv","Ukrainian Backbone Networks","Lviv","UA","Europe",13,1
+3872,"SBH-IX","","Saint-Barthélemy","BL","North America",11,1
+3877,"SBIX London","Securebit Internet Exchange London","London","GB","Europe",1,0
+3880,"PIT - Colombia - Bogota","PIT, the neutral IXP of Colombia","Bogota","CO","South America",61,4
+3884,"NAPAfrica MAPS Cape Town","","Cape Town","ZA","Africa",5,0
+3890,"PTT São João M.","","São João de Meriti","BR","South America",7,3
+3891,"IXRR Internet Exchange Amazonas","IXRR Internet Exchange Amazonas","Manaus","BR","North America",5,0
+3893,"DANIX","Dominica National Internet Exchange","Roseau","DM","North America",3,0
+3898,"Ninja-IX Bahamas","","Nassau","BS","North America",0,0
+3903,"ISPAB-NIX","Bangladesh Internet Service Provider Internet Exchange Trust","Dhaka","BD","Asia Pacific",121,0
+3910,"BGP.Exchange - Seoul","BGP.Exchange - Seoul","Seoul","KR","Asia Pacific",8,0
+3911,"BGP.Exchange - Tokyo","BGP.Exchange - Tokyo","Tokyo","JP","Asia Pacific",54,0
+3913,"BGP.Exchange - Paris","BGP.Exchange - Paris","Paris","FR","Europe",61,0
+3915,"BGP.Exchange - Sao Paulo","BGP.Exchange - Sao Paulo","Sao Paulo","BR","South America",23,0
+3922,"BGP.Exchange - Chicago","BGP.Exchange - Chicago","Chicago","US","North America",16,0
+3923,"BGP.Exchange - Miami","BGP.Exchange - Miami","Miami","US","North America",40,0
+3925,"BGP.Exchange - Kyiv","BGP.Exchange - Kyiv","Kyiv","UA","Europe",12,0
+3928,"BGP.Exchange - Bangkok","BGP.Exchange - Bangkok","Bangkok","TH","Asia Pacific",5,0
+3930,"BGP.Exchange - Bogata","BGP.Exchange - Bogata","Bogata","CO","South America",19,0
+3931,"BGP.Exchange - Buenos Aires","BGP.Exchange - Buenos Aires","Buenos Aires","AR","South America",11,0
+3932,"BGP.Exchange - Fortaleza","BGP.Exchange - Fortaleza","Fortaleza","BR","South America",14,0
+3933,"BGP.Exchange - Rio de Janeiro","BGP.Exchange - Rio de Janeiro","Rio de Janeiro","BR","South America",18,0
+3934,"BGP.Exchange - Lima","BGP.Exchange - Lima","Lima","PE","South America",8,0
+3935,"BGP.Exchange - Mexico City","BGP.Exchange - Mexico City","Mexico City","MX","South America",11,0
+3936,"BGP.Exchange - Panama City","","Panama City","PA","South America",7,0
+3937,"BGP.Exchange - Santiago","BGP.Exchange - Santiago","Santiago","CL","South America",12,0
+3938,"BGP.Exchange - Quito","BGP.Exchange - Quito","Quito","EC","South America",7,0
+3941,"Banyumas Internet Exchange","Banyumas Internet Exchange","Banyumas, Jawa Tengah, Indonesia","ID","Asia Pacific",2,1
+3946,"TheSCAX","The South Coast Access Exchange","Brookings","US","North America",2,1
+3952,"Matrix Internet Exchange (MIX)","Matrix Internet Exchange (MIX)","Jakarta","ID","Asia Pacific",2,1
+3958,"1-IX EU","1-IX Internet Exchange Europe","New-York, London, Paris, Madrid, Frankfurt, Amsterdam, Warsaw, Bratislava, Lviv, Kyiv, Hong Kong","PL","Europe",179,26
+3962,"PIT - Colombia - Barranquilla","","Barranquilla","CO","South America",10,1
+3968,"Grunn-IX","","Groningen","NL","Europe",1,3
+3970,"Super Internet eXchange (SIX)","Super Internet eXchange","Bogor","ID","Asia Pacific",4,3
+3973,"Ninja-IX Bay Area","","Northern California","US","North America",4,2
+3974,"Ninja-IX Auburn","","Auburn","US","North America",6,1
+3986,"IXP-PR","","Carolina","PR","North America",1,0
+3987,"MVIXP","Maldives Internet Exchange","Male'","MV","Asia Pacific",8,1
+3990,"INTERIX","InterIX Internet Exchange","Amsterdam","NL","Europe",204,19
+3991,"Port IX","Port pOrt poRt porT INTERNET EXCHANGE","Fremont, CA","US","North America",2,1
+3995,"Mountain West Internet Exchange","Mountain West Internet Exchange","Salt Lake City","US","North America",11,9
+3997,"PIT - Peru - Chiclayo","","Chiclayo","PE","South America",13,0
+3998,"PIT - Peru - Cuzco","","Cuzco","PE","South America",0,0
+4000,"AF-CIX","","Lagos","NG","Africa",40,1
+4002,"Mario IX","","Elche","ES","Europe",0,0
+4004,"DE-CIX Leipzig","","Leipzig","DE","Europe",16,2
+4005,"France-IX Lille","","Lille","FR","Europe",20,1
+4006,"FOX","Formosa Open eXchange","Tainan","TW","Asia Pacific",21,4
+4007,"AMS-IX Hyderabad","","Hyderabad","IN","Asia Pacific",8,2
+4008,"SMART-IX","Saint-Martin Internet Exchange","Marigot","MF","North America",4,0
+4011,"CENTRO-IX","Centro Internet Exchange","Pekanbaru - Jakarta","ID","Asia Pacific",35,5
+4012,"Pejuang IX","Pejuang Internet Xchange","Jakarta","ID","Asia Pacific",0,2
+4015,"IIX-Banten","","Serang","ID","Asia Pacific",9,1
+4018,"SAIX Saudi Arabia Jeddah","Saudi Arabia Internet Exchange Jeddah","Jeddah","SA","Middle East",15,0
+4027,"IIX-Rimba-1","IIX Riau-Sumbar-1 APJII","Pekanbaru","ID","Asia Pacific",16,1
+4028,"IIX-Sulampua","","Makassar","ID","Asia Pacific",2,1
+4029,"IIX-Sumsel","IIX Sumatra Selatan (Sultan-IX)","Palembang","ID","Asia Pacific",7,1
+4030,"IIX-Jambi","Jambi Internet eXchange","Jambi","ID","Asia Pacific",0,1
+4033,"ODIX Omadata","Omadata Internet Exchange (ODIX)","Surabaya","ID","Asia Pacific",207,2
+4034,"SeptemberIX","","Amsterdam","NL","Europe",0,0
+4036,"Electron IX","","Frankfurt","DE","Europe",0,0
+4037,"CV-IXP","Associação Cabo Verde Internet Exchange Point","Praia","CV","Africa",5,0
+4040,"Edge IX Birmingham","","Birmingham","GB","Europe",0,1
+4041,"DE-CIX Oslo","DE-CIX Oslo","Oslo","NO","Europe",9,1
+4042,"DE-CIX Kristiansand","","Kristiansand","NO","Europe",7,1
+4043,"DE-CIX Copenhagen","DE-CIX Copenhagen","Copenhagen","DK","Europe",11,1
+4044,"DE-CIX Helsinki","DE-CIX Helsinki","Helsinki","FI","Europe",10,1
+4046,"Namex Napoli","","Napoli","IT","Europe",14,1
+4047,"Digital Edge EPIX Jakarta","EPIX Jakarta","Jakarta","ID","Asia Pacific",96,2
+4051,"PIT MX","","Queretaro","MX","North America",46,2
+4053,"sumIX","Sumatra Internet Exchange","Pekanbaru","ID","Asia Pacific",6,1
+4059,"ONIX","Ontario Internet Exchange","Toronto","CA","North America",172,3
+4064,"ELX-IX","Elche Internet Exchange","Elche","ES","Europe",0,0
+4065,"REMIX","Reykjavík Metro Internet Exchange","Capital Region","IS","Europe",0,0
+4066,"CitraIX Surakarta","Citranet Internet Exchange Surakarta","Surakarta","ID","Asia Pacific",17,1
+4069,"DE-CIX Esbjerg","","Esbjerg","DK","Europe",6,1
+4073,"BGPHaus","BGPHaus","London","GB","Europe",1,0
+4081,"N'Djamena IX","N'Djamena IX","N'Djamena","TD","Africa",9,1
+4082,"MoeIX SEA","Moe Internet Exchange - Seattle","Seattle","US","North America",17,0
+4085,"ADRIA-IX","Udruga means Association/Non-Profit in Croatian","Rijeka","HR","Europe",0,0
+4091,"MEX-IX El Paso","","El Paso","US","North America",7,1
+4092,"Miaowoo Ashburn","Miaowoo Internet Exchange Ashburn","Ashburn","US","North America",4,0
+4095,"PeeringDB Example IX","","Example Town","AQ","South America",0,2
+4096,"Nephren IX","Nephren Internet Exchange","Hong Kong","HK","Asia Pacific",3,0
+4105,"BEE-IX","BEE-IX Internet Exchanges","Lviv","UA","Europe",16,1
+4109,"PIT - Colombia - Cali","PIT Cali","Cali","CO","South America",13,1
+4110,"PIT - Ecuador - Quito","PIT Quito","Quito","EC","South America",14,1
+4122,"ACIX","Africa Congo Internet eXchange","Kinshasa","CD","Africa",6,2
+4132,"SIOUIX","Sioux City Internet eXchange","Sioux City","US","North America",1,1
+4133,"WSNL-IX","WSNL INTERNET EXCHANGE PRIVATE LIMITED","Mumbai","IN","Asia Pacific",7,0
+4138,"KM-IX","Khmelnytskyi Internet Exchange","Khmelnitsky","UA","Europe",6,1
+4148,"NMBINX","Nelson Mandela Bay Internet Exchange","Gqeberha","ZA","Africa",12,1
+4149,"Digital Edge EPIX Philippines","","Metro Manila","PH","Asia Pacific",6,1
+4150,"PIT - Argentina - Buenos Aires","","Buenos Aires","AR","South America",19,4
+4151,"PIT - Peru - Piura","","Piura","PE","South America",2,0
+4152,"PIT - Ecuador - Guayaquil","","Guayaquil","EC","South America",4,0
+4154,"NorthIX","","Copenhagen","DK","Europe",11,1
+4159,"IX.br (PTT.br) Rio Branco","IX.br (PTT.br) Rio Branco","Rio Branco/AC","BR","South America",11,0
+4161,"NXIXP","","ZhongWei","CN","Asia Pacific",0,0
+4162,"France-IX Toulouse","","Toulouse","FR","Europe",13,1
+4163,"EdgeNXT","EdgeNXT Internet Exchange","Jakarta","ID","Asia Pacific",132,2
+4164,"XSIX VAN","Xentain Solutions Internet Exchange Vancouver","Vancouver","CA","North America",1,0
+4167,"MHK-IX","Maharlika Internet Exchange","Manila","PH","Asia Pacific",53,3
+4171,"SHIXP","","上海市","CN","Asia Pacific",19,0
+4172,"Ge-DIX","","Genova","IT","Europe",7,2
+4174,"Equinix Jeddah","Equinix Internet Exchange Jeddah","Jeddah","SA","Middle East",5,1
+4175,"City-IX Frankfurt","","Frankfurt","DE","Europe",7,3
+4176,"PIT Honduras","","San Pedro Sula","HN","South America",36,0
+4184,"ONIX PERU","ONIX NETWORK - Internet Exchange Point","Lima","PE","South America",5,0
+4185,"Impart IX","Impart Internet Exchange","Singapore","SG","Asia Pacific",10,2
+4186,"TurkIX Sofia","Turkey Internet eXchange","Sofia","BG","Europe",27,10
+4189,"MMIX Mandalay","Myanmar Internet Exchange","Mandalay","MM","Asia Pacific",19,0
+4191,"Metta-IX","Metta Internet Exchange","Jakarta","ID","Asia Pacific",17,3
+4193,"LabIX","Labitat Internet Exchange","Copenhagen","DK","Europe",4,1
+4194,"TrustIX","Trust Internet Exchange","Bandung","ID","Asia Pacific",1,3
+4200,"FogIXP Frankfurt","FogIXP Regional IXP Frankfurt","Frankfurt","DE","Europe",61,5
+4205,"GNM-IX SG","GNM Internet Exchange Singapore","Singapore","SG","Asia Pacific",16,3
+4211,"Equinix Mumbai","","Mumbai","IN","Asia Pacific",25,2
+4220,"JKT-IX Surabaya","","Surabaya","ID","Asia Pacific",55,1
+4221,"JKT-IX Bali","","Denpasar","ID","Asia Pacific",10,0
+4228,"TUSIX","Tucson Internet Exchange","Tucson","US","North America",4,1
+4231,"LINX Nairobi","LINX Nairobi","Nairobi","KE","Africa",58,4
+4232,"AMS-IX Bangkok","AMS-IX Bangkok","Bangkok","TH","Asia Pacific",16,2
+4233,"Giganet IXN Frankfurt","","Frankfurt","DE","Europe",49,1
+4242,"Zero Internet eXchange San Jose","","San Jose","US","North America",15,3
+4245,"BGP.Exchange - Lyon","BGP.Exchange - Lyon","Lyon","FR","Europe",28,0
+4252,"irix Internet Exchange","","Kuching","MY","Asia Pacific",2,1
+4257,"GPMIX","GPM INTERNET EXCHANGE","Lampung Timur","ID","Asia Pacific",11,2
+4259,"Accra Internet Exchange LBG","Accra Internet Exchange","Accra","GH","Africa",22,1
+4260,"Grand Rapids Internet Exchange (GRR-iX)","Grand Rapids Internet Exchange","Grand Rapids, MI","US","North America",13,1
+4262,"EdgeIX - Auckland","","Auckland","NZ","Australia",49,4
+4263,"DE-CIX Hyderabad","","Hyderabad","IN","Asia Pacific",14,4
+4265,"Computing ID Internet Exchange","Computing ID Internet Exchange","Mojokerto","ID","Asia Pacific",0,1
+4269,"Penang IX","Penang IX powered by DE-CIX","Penang","MY","Asia Pacific",15,1
+4271,"Pakistan Internet Exchange (PIE) Karachi","Pakistan Internet Exchange (PIE) Karachi powered by DE-CIX","Karachi","PK","Asia Pacific",8,1
+4274,"BBIX Manila","","Manila","PH","Asia Pacific",94,7
+4281,"STIX.DO","Santiago Internet Exhange","Santiago","DO","North America",30,1
+4282,"DD-IX","","Dresden","DE","Europe",12,2
+4292,"SONIX Malmo","Sweden Open Network Internet eXchange","Malmö","SE","Europe",8,1
+4293,"CGIX-PNR","Point d'Exchange Internet de Pointe-Noire","Pointe-Noire","CG","Africa",0,0
+4294,"GDL-IX","GDL-IXP","Guadalajara","MX","North America",1,1
+4296,"Japan Community IX - INIXP","Japan Community IX - INIXP","Japan","JP","Asia Pacific",16,5
+4298,"MegaIX Charlotte","Megaport MegaIX Charlotte","Charlotte","US","North America",6,4
+4299,"NRIX","NiceRoute Internet Exchanges","Taipei City","TW","Asia Pacific",39,1
+4301,"UZ-IX","","Tashkent","UZ","Asia Pacific",0,0
+4302,"IRAQ-IXP","","Baghdad","IQ","Middle East",32,0
+4309,"MorePeering Los Angeles","","Los Angeles","US","North America",1,4
+4310,"NetIX Greece","","Thessaloniki / Athens","GR","Europe",36,5
+4316,"Pigeon IX","MoeDove Internet Exchange Point","Kansas","US","North America",22,3
+4318,"MegaIX New York","Megaport MegaIX New York","New York","US","North America",21,24
+4321,"Vitro Internet Exchange","Vitro Internet Exchange","Pasig","PH","Asia Pacific",19,5
+4322,"Barcelona-IX","Barcelona IXP","Barcelona","ES","Europe",26,1
+4323,"SON-IX","Süd-Ost Niedersachsen Internet Exchange","Wolfsburg","DE","Europe",10,3
+4326,"NaissIX IXP","","Nis","RS","Europe",0,0
+4327,"GetaFIX Davao","GetaFIX Davao - Philippines","Davao","PH","Asia Pacific",6,2
+4338,"JPNAP Sendai/Sapporo","JPNAP Sendai/Sapporo","Sendai/Sapporo","JP","Asia Pacific",6,2
+4339,"American IX ★ Massachusetts","Lightboard","Boston Springfield Syracuse Burlington Worcester","US","North America",4,2
+4340,"Vermont IX 🍁","Lightboard American IX Vermont","Burlington White River Junction Hanover, NH Montpelier","US","North America",4,1
+4341,"BSCIX","","Dhaka","BD","Asia Pacific",3,1
+4345,"OMGNET-SGIX","","新加坡","SG","Asia Pacific",0,0
+4346,"OMGNET-HKIX","","香港","HK","Asia Pacific",0,0
+4348,"PIT - LATAM Interconnect","","Miami","US","North America",5,1
+4351,"PIT AR","","Buenos Aires","AR","South America",10,2
+4352,"DartNode IXP - Houston","DartNode IXP","Houston, Texas","US","North America",0,1
+4353,"LIS-IX","Lisbon Internet eXchange","Lisbon","PT","Europe",2,1
+4357,"Addix","","Addis Ababa","ET","Africa",3,0
+4358,"IXP-MN","","Ulaanbaatar","MN","Asia Pacific",0,0
+4360,"Noord-IX","Noord-IX - We connect the North","Leeuwarden","NL","Europe",3,4
+4361,"MegaIX Atlanta","Megaport MegaIX Atlanta","Atlanta","US","North America",10,13
+4362,"MegaIX Miami","Megaport MegaIX Miami","Miami","US","North America",10,4
+4363,"MegaIX Denver","Megaport MegaIX Denver","Denver","US","North America",7,10
+4366,"CM-IX","Central Michigan Internet Exchange","Mount Pleasant","US","North America",5,1
+4367,"FIX Berlin","the Fr(ickel|ee|ei|eundlich) Internet Exchange, Berlin","Berlin","DE","Europe",6,1
+4371,"Oman-IX","Oman Internet Exchange","Muscat","OM","Middle East",10,1
+4374,"Stelia IX","","London","GB","Europe",0,0
+4375,"IX Australia Hobart (TAS-IX)","Tasmanian Internet Exchange","Hobart","AU","Asia Pacific",5,1
+4377,"MIX Roma","","Rome","IT","Europe",20,2
+4378,"F4IX MCI","F4 Internet Exchange","Kansas City","US","North America",56,1
+4379,"HN Internet Exchange (Main)","Hyper Group Internet Exchange","North Kansas City","US","North America",28,1
+4380,"West Virginia Internet Exchange","West Virginia Internet Exchange","Charleston","US","North America",3,3
+4381,"KeFF-IX","Sweden Internet Exchange","Stockholm, Gothenburg, Malmö, Amsterdam","SE","Europe",10,9
+4384,"Giganet IXN Amsterdam","","Amsterdam","NL","Europe",46,2
+4401,"TMW-iX","","Frankfurt am Main","DE","Europe",5,5
+4405,"IFORTE Xchange","","Jakarta","ID","Asia Pacific",7,3
+4410,"Pfcloud IX","","Frankfurt","DE","Europe",1,1
+4411,"DE-CIX Jakarta","DE-CIX Jakarta","Jakarta","ID","Asia Pacific",174,6
+4414,"CSNIX - Hamburg","","Hamburg","DE","Europe",1,0
+4415,"CSNIX - Kehrsen","","Kehrsen","DE","Europe",2,0
+4416,"CSNIX - Gudow","","Gudow","DE","Europe",1,0
+4417,"CSNIX - Hamburg RemotePeering","","Hamburg","DE","Europe",0,0
+4418,"Helix-IX","Helix-IX","RIFFA","BH","Middle East",0,0
+4424,"SN-IX","SN-IX - Internet eXchange","Eygelshoven","NL","Europe",1,1
+4431,"FlooydIX Kansas","Flooyd Internet Exchange for Kansas","Kansas City","US","North America",1,1
+4432,"JAMUANFC-IX","","Jakarta","ID","Asia Pacific",1,0
+4434,"INTERLINK IXP","","Jakarta","ID","Asia Pacific",8,0
+4437,"BGP.Exchange - Santa Clara","BGP.Exchange - Santa Clara","Santa Clara","US","North America",0,0
+4438,"BGP.Exchange - Dallas","BGP.Exchange - Dallas","Dallas","US","North America",23,1
+4440,"DataSphere Internet Exchange (Hong Kong)","DataSphere Internet Exchange (Hong Kong)","Hong Kong","HK","Asia Pacific",28,1
+4444,"CitraIX Semarang","Citranet Internet Exchange Semarang","Semarang","ID","Asia Pacific",11,1
+4446,"LIONEX1","Lilongwe Open Neutral Internet Exchange","Lilongwe","MW","Africa",5,0
+4447,"IX ANDESPARK SAC","ANDESPARK PERU","Lima - Huancayo - Huanuco","PE","South America",6,0
+4448,"Japan Community IX","Japan Community IX","Japan","JP","Asia Pacific",32,5
+4449,"AIX","Alien Internet Exchange","Tapos, Depok","ID","Asia Pacific",319,5
+4450,"Tripoli IXP","","Tripoli","LY","Africa",0,0
+4453,"IXP Liptel","","Kyiv","UA","Europe",0,0
+4454,"PIT DOMINICANO","Punto de Intercambio de Trafico Dominicano, S. R. L","Santiago","DO","North America",33,1
+4457,"GL-IX","Gentlent Internet Exchange","Düsseldorf","DE","Europe",2,1
+4458,"IX CDE SOCIEDAD ANONIMA","","Ciudad Del  Este","PY","South America",30,1
+4460,"DFW-IX","Dallas Internet Exange Point","Dallas","US","North America",8,7
+4461,"Association HwHost","","Paris","FR","Europe",0,1
+4462,"NVIX","","Ashburn","US","North America",61,1
+4475,"packet:ix","","Seoul","KR","Asia Pacific",8,3
+4478,"center3 IX Riyadh","center3 Internet Exchanges powered by LINX","Riyadh","SA","Middle East",11,1
+4480,"POM-IX","","Gdańsk","PL","Europe",11,2
+4490,"Equinix Kuala Lumpur","","Kuala Lumpur","MY","Asia Pacific",2,1
+4491,"CL-IX","Cleveland Internet Exchange","Cleveland, OH","US","North America",4,1
+4493,"Free-IX Greece","","Thessaloniki & Athens","GR","Europe",11,2
+4494,"Guam IX","Guam IX","Tamuning","GU","Asia Pacific",12,4
+4495,"PT. Airlink Media Data","","Brebes","ID","Asia Pacific",0,0
+4498,"OnlineNet","","Artashat","AM","Europe",0,0
+4499,"MSR IX","JSMSR Networks MSR Internet Exchange","shibuya","JP","Asia Pacific",10,0
+4503,"frankonIX","frankonIX","Nuremberg","DE","Europe",21,4
+4504,"Azteca Telecom","","Santiago","DO","North America",13,1
+4506,"MegaIX Adelaide","","Adelaide","AU","Australia",22,5
+4507,"MegaIX Chicago","","Chicago","US","North America",12,16
+4508,"MegaIX Bay Area","Megaport MegaIX Bay Area","San Francisco","US","North America",18,13
+4510,"MONICA IX (AS 138121)","PT Ekamas Mora Republik Tbk","Jakarta","ID","Asia Pacific",20,7
+4511,"AxiusIX EIR","AxiusIX EIR","Eirenia","ES","Europe",1,0
+4518,"CXC Denpasar","CLOUDXCHANGE","Denpasar","ID","Asia Pacific",55,3
+4519,"IXP GT","Guatemala Internet Traffic Exchange Point","Guatemala","GT","South America",18,1
+4520,"AlaskaIX","","Anchorage","US","North America",2,1
+4524,"NAPVE CCS","NAPVE CARACAS","Caracas","VE","South America",16,2
+4525,"DE-CIX Mexico","DE-CIX MEXICO (Mexico City, Querétaro)","Mexico City","MX","North America",26,4
+4530,"Exohost CA1","","Bradford","CA","North America",0,0
+4534,"FD-IX - Amarillo","","Amarillo","US","North America",4,1
+4545,"Conex - IXP","","Lima","PE","South America",10,0
+4550,"NIX Monterrey","NIX Monterrey","Monterrey","MX","North America",9,0
+4553,"PeersIX Amsterdam","","Amsterdam","NL","Europe",15,1
+4555,"ABS-IX","","JAKARTA","ID","Asia Pacific",3,2
+4556,"IX.br (PTT.br) Porto Velho","IX.br (PTT.br) Porto Velho","Porto Velho","BR","South America",14,3
+4560,"BJN-IX","BJN Internet Exchange","Jambi","ID","Asia Pacific",10,0
+4569,"RPCI","ISP PERU IX E.I.R.L.","Lima","PE","South America",4,0
+4573,"DarIX","Dar es Salaam Internet Exchange (DarIX)","Dar es Salaam","TZ","Africa",5,1
+4574,"IdahoIX","Idaho Internet Exchange","Boise","US","North America",4,1
+4575,"SVGIX","Saint Vincent & The Grenadines Internet Exchange","kingstown","VC","North America",4,0
+4577,"MIX Caserta","Milan Internet eXchange","Caserta","IT","Europe",6,1
+4578,"IX.br (PTT.br) Feira de Santana","IX.br (PTT.br) Feira de Santana","Feira de Santana","BR","South America",27,3
+4583,"ESpanix Barcelona Lower LAN","Barcelona Lower LAN","Barcelona","ES","Europe",2,8
+4584,"ESpanix Barcelona Upper LAN","Barcelona Upper LAN","Barcelona","ES","Europe",2,8
+4587,"IX.br (PTT.br) Caruaru","IX.br (PTT.br) Caruaru","Caruaru","BR","South America",6,2
+4588,"ILIX","Indonesia Local Exchange","Jakarta Selatan","ID","Asia Pacific",84,3
+4589,"NSIX Amsterdam","North Sea Internet Exchange - Amsterdam","Amsterdam","NL","Europe",13,3
+4590,"BATI-IX","Banten Indonesia Internet eXchange powered by BTSNET","Serang","ID","Asia Pacific",17,2
+4594,"SmartIX","SmartIX Frankfurt Internet Exchange","Frankfurt","DE","Europe",2,5
+4598,"MegaIX Houston","","Houston","US","North America",3,8
+4599,"DE-CIX Houston","","Houston","US","North America",10,2
+4602,"FD-IX - Chicago","","Chicago","US","North America",4,5
+4604,"CANIX Quebec city","","Quebec City","CA","North America",5,1
+4605,"Colocix Internet Exchange","Colocix Internet Exchange","Colombo","LK","Asia Pacific",7,0
+4606,"AMS-IX Manila","Amsterdam Internet Exchange Manila","Manila","PH","Asia Pacific",10,1
+4607,"PatagoniaIX","","Punta Arenas","CL","South America",7,1
+4608,"HN Internet Exchange (HK)","","Hong Kong","HK","Asia Pacific",0,0
+4609,"DACS-IX North","DACS-IX North Region","New York","US","North America",4,1
+4610,"DACS-IX South","DACS-IX South Region","Orlando","US","North America",4,2
+4621,"TREX turku","","Turku","FI","Europe",6,0
+4622,"GraniteIX","GraniteIX - Salt Lake City","Salt Lake City, UT","US","North America",21,9
+4625,"Hong Kong Global Internet Exchange","Hong Kong Global Internet Exchange","Hong Kong","HK","Asia Pacific",19,9
+4630,"ERA-IX Frankfurt","ERA-IX Frankfurt","Frankfurt","DE","Europe",77,10
+4632,"IXP GYE","IXP GYE","Guayaquil","EC","South America",4,0
+4634,"ENTERNET IX","","Tokyo","JP","Asia Pacific",28,0
+4635,"FCP Network","FCP Network","Arak","IR","Middle East",0,0
+4636,"BGP.Exchange - Lisbon","BGP.Exchange - Lisbon","Lisbon","PT","Europe",0,0
+4637,"BGP.Exchange - Taipei","BGP.Exchange - Taipei","Taipei","TW","Asia Pacific",10,0
+4639,"Equinix Jakarta","","Jakarta","ID","Asia Pacific",39,1
+4640,"GNM-IX UA","GNM UA Internet Exchange","Kiev","UA","Europe",58,0
+4641,"DE-CIX Rio de Janeiro","DE-CIX Rio de Janeiro","Rio de Janeiro","BR","South America",13,2
+4642,"DE-CIX Sao Paulo","DE-CIX Sao Paulo","Sao Paulo","BR","South America",36,3
+4643,"TarIX JKT","","Jakarta","ID","Asia Pacific",3,1
+4644,"ENS-IX","Enschedese Internet Exchange","Enschede","NL","Europe",11,7
+4652,"MPLIX","Montpellier internet exchange point","Montpellier","FR","Europe",2,2
+4653,"LINX Mombasa","LINX Mombasa","Mombasa","KE","Africa",51,2
+4693,"France-IX Bordeaux","","Bordeaux","FR","Europe",3,1
+4696,"DoljNET IX","","Craiova","RO","Europe",0,0
+4705,"nine","nine - the new European IX","Amsterdam, Bordeaux, Frankfurt, Genève, Lille, London, Lyon, Marseille, Milano, Montpellier, Paris, Zurich","FR","Europe",141,44
+4707,"JPIX HOKKAIDO","","Sapporo","JP","Asia Pacific",3,0
+4708,"NAPVE MCBO","NAPVE MCBO","Maracaibo","VE","South America",20,0
+4709,"AMS-IX Eastern Caribbean","","Sint Eustatius","BQ","North America",7,1
+4710,"MegaIX Dublin","","Dublin","IE","Europe",4,5
+4711,"MegaIX Osaka","","Osaka","JP","Asia Pacific",4,7
+4712,"MegaIX Montreal","","Montreal","CA","North America",1,4
+4715,"Doha IX","","Doha","QA","Middle East",10,1
+4717,"Fiblib Digital Networks","FIBLIB DIGITAL NETWORKS","New Delhi","IN","Asia Pacific",4,6
+4718,"AKIX","Akaere Internet Exchange Point","Zurich","CH","Europe",12,5
+4720,"IndyIX","Indianapolis Internet Exchange","Indianapolis","US","North America",13,1
+4721,"CXIX - Great Lakes","Central X Exchange","NewYork","US","North America",40,2
+4724,"BGP.Exchange - Nairobi","","Nairobi","KE","Africa",0,1
+4727,"OpenIX Beirut","","Beirut","LB","Middle East",22,0
+4728,"TJ-IX","TJ-IX Dushanbe","Dushanbe","TJ","Asia Pacific",16,0
+4737,"ISCX Internet Exchange","","Jakarta","ID","Asia Pacific",7,2
+4739,"NAPVE VLN","NAPVE VLN","Valencia","VE","South America",15,1
+4744,"Exchange7","","Winterthur","CH","Europe",8,2
+4745,"PITER-IX Novosibirsk","","Novosibirsk","RU","Europe",3,0
+4746,"PITER-IX Vladikavkaz","","Vladikavkaz","RU","Europe",1,0
+4761,"PIT Paraguay","Punto de Intercambio de Tráfico de Paraguay","Ciudad del Este","PY","South America",18,2
+4767,"MOCIX","","Kansas City","US","North America",3,1
+4769,"LINX Accra","","Accra","GH","Africa",8,3
+4770,"PIT Lima - PIT Chile","","Lima","PE","South America",3,1
+4771,"PANDA-IX","Panda Internet Exchage","Semarang","ID","Asia Pacific",14,1
+4774,"OMNIIX INDONESIA","Omni Internet Exchange","Batam, Jakarta","ID","Asia Pacific",43,9
+4775,"NVL-IX","","Athens","GR","Europe",11,3
+4776,"CXC Surabaya","CLOUDXCHANGE","Surabaya","ID","Asia Pacific",8,3
+4777,"AKIX - TFU","Akaere Internet Exchange ChengDu Point","ChengDu","CN","Asia Pacific",7,0
+4778,"SONIA IX","Solution Network Interconnect Access","Jakarta & Sidoarjo","ID","Asia Pacific",4,3
+4779,"TievoluIX","Tievolu Internet Exchange","Frankfurt","DE","Europe",5,2
+4781,"EURASIA-IX.NET","","Istanbul","TR","Europe",6,20
+4783,"IL-IX","ISOC-IL infrastructure services","Multiple","IL","Middle East",22,3
+4792,"WHY2025 IXP","","Geesterambacht","NL","Europe",2,0
+4795,"MMIX Tachileik","","Tachileik","MM","Asia Pacific",4,0
+4796,"CIX-NoVA","Community IX - Northern Virginia","Ashburn, Reston, Washington DC","US","North America",27,6
+4797,"MIX Thessaloniki","","Thessaloniki","GR","Europe",15,1
+4799,"CXIX - Yangtze Delta","Central X Internet Exchange","Shanghai","CN","Asia Pacific",4,0
+4802,"AKIX - HKG","Akaere Internet Exchange HongKong Point","HongKong","HK","Asia Pacific",4,0
+4803,"Gateway Internet Exchange","","Saint Louis","US","North America",3,1
+4805,"Extreme IX Pune","Extreme IX Pune","Pune","IN","Asia Pacific",11,3
+4814,"JEIX","Japan Experimental Internet Xchange","Tokyo","JP","Asia Pacific",7,0
+4818,"KOIX","KOrea Internet eXchange","Seoul","KR","Asia Pacific",7,8
+4819,"Lynqia IX Vilnius","Lynqia Internet Exchange Point","Vilnius","LT","Europe",4,0
+4820,"Chile IX by PIT.net","","Santiago","CL","South America",19,3
+4823,"PITER-IX Bishkek","","Bishkek","KG","Asia Pacific",1,0
+4825,"Spider Net Ltd - IXP","","erbil","IQ","Middle East",3,0
+4828,"SAKURA IX Hong Kong","","Hong Kong","HK","Asia Pacific",7,0
+4830,"LoLi-IX - NGB","LoLi Internet Exchange - Ningbo","Ningbo","CN","Asia Pacific",11,1
+4836,"LONIX UK","London IX Limited","London","GB","Europe",1,4
+4837,"FogIXP Amsterdam","","Amsterdam","NL","Europe",45,2
+4838,"Amateur IX","","Ashland","US","North America",6,1
+4839,"Ciallo～(∠·ω< )⌒★ IX - HK","Ciallo～(∠·ω< )⌒★ Internet Exchange Point","Hong Kong","HK","Asia Pacific",4,2
+4841,"BGP.Exchange - Edinburgh","","Edinburgh","AU","Australia",0,1
+4842,"BGP.Exchange - Berlin","BGP.Exchange - Berlin","Berlin","DE","Europe",39,0
+4843,"BGP.Exchange - Toronto","BGP.Exchange - Toronto","Toronto","CA","North America",18,0
+4851,"BIX Palembang","","Palembang, South Sumatra","ID","Asia Pacific",1,1
+4855,"Netnod Oslo BLUE -- MTU9K","","Oslo","NO","Europe",4,2
+4856,"Netnod Oslo GREEN -- MTU9K","","Oslo","NO","Europe",4,2
+4857,"TBAX","Tampa Bay Access Exchange","Tampa","US","North America",2,2
+4858,"Schleyer-IX","Schleyer-IX","Düsseldorf","DE","Europe",2,1
+4861,"CANIX Toronto","CANIX Toronto IXP","Toronto","CA","North America",8,7
+4862,"IX.br (PTT.br) Ribeirão Preto","IX.br (PTT.br) Ribeirão Preto","Ribeirão Preto","BR","South America",9,3
+4866,"TYIX","Tokyo Internet Exchange","Tokyo","JP","Asia Pacific",34,1
+4867,"PIT LATITUD 0° - IXECUADOR","PUNTO DE INTERCAMBIO DE TRAFICO LATITUD 0° ECUADOR","Quito","EC","South America",10,0
+4879,"MAINPORT Peer-Exchange","","Frankfurt am Main","DE","Europe",15,7
+4880,"Jamaica Internet Exchange Point","Jamaica Internet Exchange","Kingston","JM","North America",7,0
+4884,"American IX ★ New York","State Tower","Syracuse Rochester Buffalo Albany Toronto Binghamton","US","North America",1,1
+4885,"Nell-IX NoVA","Nell-IX NoVA","Reston","US","North America",4,2
+4891,"MegaIX São Paulo","","São Paulo","BR","South America",0,0
+4892,"Michcom-IX","Michcom Internet Exchange Point","Freetown","SL","Africa",5,4
+4893,"FD-IX - Nashville","","Nashville","US","North America",2,1
+4895,"BGP.Exchange - New York","BGP.Exchange - New York","New York","US","North America",48,2
+4896,"BGP.Exchange - Atlanta","BGP.Exchange - Atlanta","Atlanta","US","North America",16,0
+4898,"PLUGINS IX","","NAIROBI","KE","Africa",0,7
+4900,"JDX","JDX Internet Exchange","Jakarta","ID","Asia Pacific",9,4
+4902,"Jambi Access Exchange","","JAMBI","ID","Asia Pacific",0,0
+4904,"Swin Exchange","Swin Internet Exchange","Depok","ID","Asia Pacific",14,2
+4911,"Chameleon-NAP","","Miami","US","North America",4,10
+4912,"IXMidlands","IXMidlands","Wolverhampton","GB","Europe",4,3
+4915,"KAZ-GOV-IX Almaty","Kazakhstan Government Internet Exchange Almaty","Almaty","KZ","Asia Pacific",9,0
+4916,"1-PL FREE","1-PL Internet Exchange Poland","Warsaw, Wroclaw, Katowice","PL","Europe",24,7
+4917,"1-DE FREE","1-DE Internet Exchange Germany","Frankfurt","DE","Europe",20,6
+4918,"1-NL FREE","1-NL Internet Exchange Netherlands","Amsterdam","NL","Europe",53,8
+4920,"HubSIX","","Dakar","SN","Africa",6,1
+4921,"KAZ-GOV-IX Qaraganda","","Qaraganda","KZ","Asia Pacific",4,0
+4922,"KAZ-GOV-IX Shymkent","","Shymkent","KZ","Asia Pacific",4,0
+4923,"KAZ-GOV-IX Pavlodar","","Pavlodar","KZ","Asia Pacific",6,0
+4924,"Protocol 7 IX - Lycheen Japan","Protocol 7 IX - Lycheen Japan","Tokyo","JP","Asia Pacific",22,0
+4925,"KAZ-GOV-IX Semey","","Semey","KZ","Asia Pacific",4,0
+4926,"KAZ-GOV-IX Aqtobe","","Aqtobe","KZ","Asia Pacific",4,0
+4927,"TurkIX Istanbul","Turkey Internet eXchange","Istanbul","TR","Europe",0,6
+4931,"Protocol 7 IX - Tokyo","Protocol 7 IX - Tokyo","Tokyo","JP","Asia Pacific",34,0
+4932,"Protocol 7 IX - Hong Kong","Protocol 7 IX - Hong Kong (AKIX)","Hong Kong","HK","Asia Pacific",85,0
+4935,"KAZ-GOV-IX Aqtau","","Aqtau","KZ","Asia Pacific",3,0
+4937,"Ligtel IXP","","Ligonier","US","North America",0,0
+4941,"KAZ-GOV-IX Atyrau","","Atyrau","KZ","Asia Pacific",4,0
+4942,"KAZ-GOV-IX Kokshetau","","Kokshetau","KZ","Asia Pacific",4,0
+4943,"KAZ-GOV-IX Qostanay","","Qostanay","KZ","Asia Pacific",3,0
+4944,"KAZ-GOV-IX Qyzylorda","","Qyzylorda","KZ","Asia Pacific",4,0
+4946,"VexIX","","Frankfurt","DE","Europe",1,0
+4948,"KAZ-GOV-IX Taldyqorgan","","Taldyqorgan","KZ","North America",1,0
+4953,"MCT-IX","1547 CSR - MCT-IX LLC","McAllen, TX, 78501","US","North America",1,1
+4957,"MX-IX Mumbai","","Mumbai","IN","Asia Pacific",2,8
+4959,"MX-IX Dubai","","Dubai","AE","Middle East",2,3
+4960,"Chicago Open Pipes","","Chicago","US","North America",8,5
+4963,"MyNet Broadband (Pvt.) Ltd","","karachi","PK","Asia Pacific",0,0
+4964,"IXP LATAM","","Tegucicgalpa","HN","South America",0,0
+4965,"European Edge IX","European Edge Internet Exchange (EE-IX)","London","GB","Europe",0,7
+4967,"GENTONG IX","Gentong IX","Batu","ID","Asia Pacific",2,0
+4968,"EuroRhine-IX","EuroRhine-IX","Strasbourg","FR","Europe",12,4
+4970,"SSIX","","Olbia","IT","Europe",4,0
+4972,"PT RINJANI CITRA SOLUSI","PT RINJANI CITRA SOLUSI","Selong","ID","Asia Pacific",0,2
+4973,"Kawaii IX AMS","Kawaii IX AMS","Amsterdam","NL","Europe",31,1
+4983,"MX-IX Delhi","","Delhi","IN","Asia Pacific",3,6
+4984,"Kawaii IX MCI","","Kansas City","US","North America",0,0
+4985,"ERA-IX Paris","","Paris","FR","Europe",14,2
+4986,"RegPEX","RegPEX - Regional Peering Exchange","Ankara","TR","Europe",6,11
+4988,"NAPVE ORI","NAPVE ORIENTE","Oriente","VE","South America",6,0
+4989,"FogIXP Zurich","FogIXP Zurich","Zurich","CH","Europe",8,3
+4993,"1-ES FREE","","Madrid","ES","Europe",16,1
+4994,"1-FR FREE","","Paris","FR","Europe",11,1
+4995,"1-CZ FREE","","Prague","CZ","Europe",4,1
+4996,"1-BG FREE","","Sofia","BG","Europe",19,3
+4997,"1-SK FREE","","Bratislava","SK","Europe",4,1
+5002,"Digital Delta IX","","Gaborone","BW","Africa",1,1
+5004,"GAS-IX","Global Asta Internet Excange","Surabaya","ID","Asia Pacific",2,1
+5005,"NEXTIX","NEXTIX Dusseldorf","Düsseldorf","DE","Europe",7,1
+5008,"NobiDev IX","NobiDev IX","Ho Chi Minh","VN","Asia Pacific",2,0
+5011,"nine - six in Paris","","Paris","FR","Europe",9,11
+5012,"Cotel Ltda","","Villa Gesell","AR","South America",0,0
+5014,"NubiHost","NubiHost","Casano Madeno","IT","Europe",0,0
+5015,"Lesotho Internet Exchange Point","Lesotho Internet Exchange Point","Maseru","LS","Africa",3,0
+5020,"Brothers Online BD","","Pabna","BD","Asia Pacific",0,0
+5023,"3AM Network IX","3AM Network Internet eXchange","Amsterdam","NL","Europe",13,1
+5026,"KOSIX","Regulatory Authority of Electronic and Postal Communications","Pristine","XK","Europe",4,0
+5027,"MX-IX Fujairah","","Fujairah","AE","Middle East",1,1
+5029,"ERA-IX Vienna","","Vienna","AT","Europe",13,1
+5030,"Better CNIX","Better China Internet Exchange","上海","CN","Asia Pacific",21,2
+5040,"France-IX Paris Essentiel","","Paris","FR","Europe",5,1
+5048,"Konek Internet Exchange","Konek Internet Exchange","general santos city","PH","Asia Pacific",5,5
+5051,"PIT - Colombia - Cucuta","","Cucuta","CO","South America",1,0
+5052,"DE-CIX Stockholm","DE-CIX Stockholm","Stockholm","SE","Europe",2,2
+5053,"PIT - Colombia - Pasto","","Pasto","CO","North America",0,0
+5058,"MetroPort IX","MetroPort Internet Exchange","Viña del Mar","CL","South America",2,2
+5059,"MegaIX Portland","","Portland","US","North America",2,0
+5060,"MegaIX Milan","","Milan","IT","Europe",3,0
+5061,"MegaIX Boston","","Boston","US","North America",3,0
+5062,"MegaIX Phoenix","","Phoenix","US","North America",3,0
+5063,"MegaIX Madrid","","Madrid","ES","Europe",3,0
+5068,"NIX Surabaya","Nusantara Internet Exchange / Nusantara IX","Jakarta & Surabaya","ID","Asia Pacific",2,2
