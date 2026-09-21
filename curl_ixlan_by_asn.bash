@@ -1,18 +1,8 @@
 #!/bin/bash
 
-APIKEY=CAzdtz14.CTWkU79tBh6PcZzYjcyEWAntrrq1u00x
+APIKEY=<REPLACE_WITH_KEY>
 
 ASN=$1
-# Google 15169
-# Akamai 20940
-# Fastly 54113
-# Amazon 16509
-# Cachefly 30081
-# Netflix 2906
-# Cloudflare 13335
-# Microsoft 8075
-# Meta 32934
-# Starlink 14593
 
 echo "----------"
 echo "ASN:$ASN"
